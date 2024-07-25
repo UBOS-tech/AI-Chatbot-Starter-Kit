@@ -31,6 +31,31 @@ AI Bot – Custom GPT
 
 Are you seeking an edge in today’s competitive AI market? Your search ends here. UBOS.tech presents a custom GPT template, enabling businesses and developers to implement Generative AI technology today.
 
+## Dependencies
+
+Our project relies on several Node-RED nodes and additional libraries. Below is a list of the key dependencies:
+
+### Node-RED Nodes
+- `node-red-contrib-fs`: `1.4.1` - File system operations
+- `node-red-contrib-loop-processing`: `0.5.1` - Loop processing
+- `node-red-contrib-openai-ubos`: `1.0.4` - OpenAI integration
+- `node-red-contrib-telegrambot`: `15.1.9` - Telegram bot integration
+- `node-red-node-mongodb`: `0.2.5` - MongoDB integration
+- `node-red-contrib-pdfparse`: `1.0.6` - PDF parsing
+- `node-red-contrib-pinecone`: `1.0.7` - Pinecone integration
+- `node-red-contrib-chromadb`: `1.0.0` - Chroma DB integration
+
+### Libraries
+- `jsdom`: `22.1.0` - JavaScript DOM manipulation
+- `@martip/node-red-xlsx`: `1.0.2` - XLSX file handling
+- `chromadb`: `1.5.11` - Chroma DB client
+- `openai`: `4.14.2` - OpenAI API client
+- `moment`: `2.29.4` - Date and time manipulation
+- `bcrypt`: `5.1.1` - Password hashing
+
+Please ensure these dependencies are installed and properly configured to utilize the full capabilities of the AI Bot.
+
+
 ## Features
 
 UBOS AI Chatbot is a customizable, white-label solution designed to enhance customer service, efficiency, and engagement across various platforms using advanced AI models.
