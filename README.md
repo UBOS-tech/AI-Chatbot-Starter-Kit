@@ -38,22 +38,14 @@ UBOS AI Chatbot is a customizable, white-label solution designed to enhance cust
 ### Platform Integration
 Deploy the chatbot on popular messaging platforms such as Telegram, WhatsApp, Instagram, Messenger, and integrate it into websites using a chat widget.
 
-![Platform Integration](https://ubos.tech/wp-content/uploads/2023/07/demo_pages_botsetup-1.png)
-
 ### Create Knowledge Bases
 Develop and manage multiple knowledge bases tailored to different sets of information, allowing the chatbot to provide context-specific responses.
-
-![Create Knowledge Bases](https://ubos.tech/wp-content/uploads/2023/07/demo_pages_training-1.png)
 
 ### Flexible Knowledge Base Input
 Add information to knowledge bases via multiple methods, including uploading files, inserting text directly, adding from websites, or using FAQs.
 
-![image](https://github.com/user-attachments/assets/d0d86a9f-146a-4df5-945e-fded83cd7d95)
-
 ### Customizable Bot Behavior
 Configure distinct behaviors for the chatbot per knowledge base, including setting specific responses, personalities, and managing unusual chat scenarios with predefined messages.
-
-![image](https://github.com/user-attachments/assets/0531e3d7-b9a0-4aa8-a855-a3ead5ccb080)
 
 ### Manage Unusual Chat Scenarios
 Set predefined messages for starting conversations and when the bot is unable to answer, ensuring smooth user interactions.
@@ -72,7 +64,7 @@ Monitor and manage conversations through a comprehensive admin panel, tracking i
 
 ## Technology Stack
 
-![Technology Stack](https://ubos.tech/wp-content/uploads/2024/07/ubos_example-1.png)
+![Technology Stack](https://private-user-images.githubusercontent.com/41735477/291930051-a38d7157-69b9-476b-9f8b-0f403c16b844.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE5MzAyMDAsIm5iZiI6MTcyMTkyOTkwMCwicGF0aCI6Ii80MTczNTQ3Ny8yOTE5MzAwNTEtYTM4ZDcxNTctNjliOS00NzZiLTlmOGItMGY0MDNjMTZiODQ0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzI1VDE3NTE0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUzOTJkMDVhMTI4MzAzZTlhYzdhOTRkN2Y4MGUyYjI4MzNjNzZlZWM1N2FjMDk5ZjQzMzdkMDQwNWRjMjU0YmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.BLFAI3qV3l-uPL6H5D5X3qnIYPlRuU_j8wJDCtig_3U)
 
 ### Node-RED
 UBOS AI Chatbot utilizes Node-RED for orchestrating workflows and integrations. This powerful tool allows you to easily connect different services and APIs with a visual flow-based interface.
@@ -85,6 +77,8 @@ Use Pinecone for vector database management, allowing the chatbot to handle comp
 
 ### MongoDB
 Implement MongoDB for robust, flexible, and scalable database solutions, providing a strong backbone for storing chatbot data and configurations.
+
+![Technology Stack](https://ubos.tech/wp-content/uploads/2024/07/ubos_example-1.png)
 
 ## Integration and Training Table
 
