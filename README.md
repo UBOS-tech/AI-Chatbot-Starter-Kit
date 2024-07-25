@@ -57,7 +57,19 @@ Competitive pricing for businesses of all sizes, making advanced chatbot technol
 ### Admin Panel CRM
 Monitor and manage conversations through a comprehensive admin panel, tracking interactions and gaining insights into customer behavior.
 
-For more detailed information, visit the [official UBOS AI Chatbot page](https://ubos.tech/listing/ai-chatbot/).
+## Technology Stack
+
+### Node-RED
+UBOS AI Chatbot utilizes Node-RED for orchestrating workflows and integrations. This powerful tool allows you to easily connect different services and APIs with a visual flow-based interface.
+
+### Chroma DB
+Leverage Chroma DB for efficient and scalable data storage and retrieval, enabling the chatbot to access and manage large datasets quickly.
+
+### Pinecone
+Use Pinecone for vector database management, allowing the chatbot to handle complex data relationships and queries with high performance.
+
+### MongoDB
+Implement MongoDB for robust, flexible, and scalable database solutions, providing a strong backbone for storing chatbot data and configurations.
 
 
 <p align="center">
