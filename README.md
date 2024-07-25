@@ -98,3 +98,30 @@ Our state-of-the-art solution seamlessly integrates with ChatGPT and Vector data
 👀 [How to train ChatGPT and build knowledge base?](https://www.youtube.com/watch?v=1fspLZMhTxA&ab_channel=UBOS%3Alow-codeplatformtobuildGPTandAIapps)
 
 Imagine being able to launch a fully customized AI chatbot on Telegram, WhatsApp, Instagram, or Facebook within minutes, without writing a single line of code. With our AI Bot Template, that dream becomes a reality.
+
+
+
+## Feature Comparison
+
+| Feature                                         | UBOS AI Chatbot   |
+|-------------------------------------------------|-------------------|
+| Programming Approach                            | API + App-oriented| 
+| Supported LLMs                                  | Rich Variety      |
+| RAG Engine                                      | ✅                |
+| Agent                                           | ✅                | 
+| Workflow                                        | ✅                | 
+| Observability                                   | ✅                | 
+| Enterprise Features (SSO/Access control)        | ✅                | 
+| Local Deployment                                | ✅                | 
+| Multi-language Support                          | ✅                |
+| Admin Panel CRM                                 | ✅                | 
+| Knowledge Base Testing Tools                    | ✅                | 
+| Flexible Knowledge Base Input                   | ✅                |
+| Affordable Pricing                              | ✅                |
+
+### Technology Stack
+
+- **Node-RED**: Orchestrates workflows and integrations.
+- **Chroma DB**: Efficient and scalable data storage.
+- **Pinecone**: Vector database management.
+- **MongoDB**: Robust, flexible database solutions.
