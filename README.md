@@ -56,36 +56,40 @@ Our project relies on several Node-RED nodes and additional libraries. Below is 
 Please ensure these dependencies are installed and properly configured to utilize the full capabilities of the AI Bot.
 
 
-## Features
+## Key Technologies
 
-UBOS AI Chatbot is a customizable, white-label solution designed to enhance customer service, efficiency, and engagement across various platforms using advanced AI models.
+### Node-RED
+A powerful tool for designing workflows and orchestrating integrations. Node-RED's visual interface allows seamless connection between various services and APIs, facilitating complex automation scenarios.
 
-### Platform Integration
-Deploy the chatbot on popular messaging platforms such as Telegram, WhatsApp, Instagram, Messenger, and integrate it into websites using a chat widget.
+### Chroma DB
+Utilized for scalable and efficient data storage, Chroma DB handles large datasets and supports rapid retrieval, ensuring quick access to information.
 
-### Create Knowledge Bases
-Develop and manage multiple knowledge bases tailored to different sets of information, allowing the chatbot to provide context-specific responses.
+### Pinecone
+Manages vector databases to handle complex data relationships and queries with high efficiency, essential for advanced search and recommendation functionalities.
 
-### Flexible Knowledge Base Input
-Add information to knowledge bases via multiple methods, including uploading files, inserting text directly, adding from websites, or using FAQs.
+### MongoDB
+Provides a flexible, scalable database solution for storing and managing chatbot data and configurations, supporting diverse data models and structures.
 
-### Customizable Bot Behavior
-Configure distinct behaviors for the chatbot per knowledge base, including setting specific responses, personalities, and managing unusual chat scenarios with predefined messages.
+## Technical Features
 
-### Manage Unusual Chat Scenarios
-Set predefined messages for starting conversations and when the bot is unable to answer, ensuring smooth user interactions.
+### Custom GPT Training
+Train and fine-tune your GPT models on your data to create specialized conversational agents. Supports integration with various data sources, including Google Drive, Notion, and AWS S3.
 
-### Knowledge Base Testing Tools
-Utilize built-in tools to test and refine your knowledge bases to ensure accuracy and functionality.
+### Multi-Platform Integration
+Easily deploy chatbots across messaging platforms like Telegram, WhatsApp, Instagram, and Messenger. Use our chat widget for website integration.
+
+### Advanced Knowledge Management
+Build and manage multiple knowledge bases with support for various input methods—file uploads, text entry, web scraping, and FAQs.
+
+### Dynamic Behavior Configuration
+Customize bot behavior per knowledge base with tailored responses, personalities, and handling of unusual chat scenarios.
 
 ### Multi-language Support
-Support for 7 different languages to cater to a diverse audience.
-
-### Affordable Pricing
-Competitive pricing for businesses of all sizes, making advanced chatbot technology accessible.
+Implement chatbots in 7 different languages to cater to a global audience.
 
 ### Admin Panel CRM
-Monitor and manage conversations through a comprehensive admin panel, tracking interactions and gaining insights into customer behavior.
+Access a comprehensive admin panel to monitor and analyze chatbot interactions, gaining insights into user behavior and engagement.
+
 
 ## Technology Stack
 
