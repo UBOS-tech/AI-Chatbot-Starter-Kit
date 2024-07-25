@@ -18,7 +18,7 @@ AI Bot – Custom GPT
 
 <div align="center">
   
-  [![Use template](https://ubos.tech/wp-content/uploads/2023/06/download-logo.png)](https://platform.ubos.tech/?templateId=65397499fe34080011cedbb5)
+  [![Use template](https://ubos.tech/wp-content/uploads/2023/06/download-logo.png)](https://ubos.tech/listing/ai-chatbot/)
   [![Use template](https://ubos.tech/wp-content/uploads/2023/06/Group-19.png)](https://youtube.com/playlist?list=PLO6yg7spqnjkkk0wLu6vcNoIItLV0zLSO&si=4TboTI9nAjxrMQsY)
   
 </div>
@@ -28,6 +28,42 @@ AI Bot – Custom GPT
 **Train ChatGPT, 1000+ Integrations, Open Source, Extend with JavaScript**
 
 Are you seeking an edge in today’s competitive AI market? Your search ends here. UBOS.tech presents a custom GPT template, enabling businesses and developers to implement Generative AI technology today.
+
+# UBOS AI Chatbot
+
+UBOS AI Chatbot is a customizable, white-label solution designed to enhance customer service, efficiency, and engagement across various platforms using advanced AI models.
+
+## Features
+
+### Platform Integration
+Deploy the chatbot on popular messaging platforms such as Telegram, WhatsApp, Instagram, Messenger, and integrate it into websites using a chat widget.
+
+### Create Knowledge Bases
+Develop and manage multiple knowledge bases tailored to different sets of information, allowing the chatbot to provide context-specific responses.
+
+### Flexible Knowledge Base Input
+Add information to knowledge bases via multiple methods, including uploading files, inserting text directly, adding from websites, or using FAQs.
+
+### Customizable Bot Behavior
+Configure distinct behaviors for the chatbot per knowledge base, including setting specific responses, personalities, and managing unusual chat scenarios with predefined messages.
+
+### Manage Unusual Chat Scenarios
+Set predefined messages for starting conversations and when the bot is unable to answer, ensuring smooth user interactions.
+
+### Knowledge Base Testing Tools
+Utilize built-in tools to test and refine your knowledge bases to ensure accuracy and functionality.
+
+### Multi-language Support
+Support for 7 different languages to cater to a diverse audience.
+
+### Affordable Pricing
+Competitive pricing for businesses of all sizes, making advanced chatbot technology accessible.
+
+### Admin Panel CRM
+Monitor and manage conversations through a comprehensive admin panel, tracking interactions and gaining insights into customer behavior.
+
+For more detailed information, visit the [official UBOS AI Chatbot page](https://ubos.tech/listing/ai-chatbot/).
+
 
 <p align="center">
   <img width="80%" align="center" alt="Train ChatGPT" src="https://github.com/UBOS-tech/AI-Bot-Custom-GPT/assets/41735477/a38d7157-69b9-476b-9f8b-0f403c16b844">
