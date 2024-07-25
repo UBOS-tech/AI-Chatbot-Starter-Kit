@@ -1,6 +1,6 @@
 [submodule "Generative-AI-Bot-UI"]
-   path = Generative-AI-Bot-UI
-   url = https://github.com/UBOS-Asset-Store/Generative-AI-Bot-UI.git
+	path = Generative-AI-Bot-UI
+	url = https://github.com/UBOS-Asset-Store/Generative-AI-Bot-UI.git
 [submodule "Generative-AI-Bot-NR"]
-   path = Generative-AI-Bot-NR
-   url = https://github.com/UBOS-Asset-Store/Generative-AI-Bot-NR.git
+	path = Generative-AI-Bot-NR
+	url = https://github.com/UBOS-Asset-Store/Generative-AI-Bot-NR.git
