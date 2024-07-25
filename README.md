@@ -109,19 +109,66 @@ Implement MongoDB for robust, flexible, and scalable database solutions, providi
 
 ![Technology Stack](https://ubos.tech/wp-content/uploads/2024/07/ubos_example-1.png)
 
-## Integration and Training Table
+## Node-RED Flow Details
 
-| **Easily train your AI Chatbot on your data from any source:** | **Easily integrate AI Chatbot into your favorite communication channels:** | **Support for interaction with hundreds of popular AI models:** | **Connect your AI Chatbot to your favorite CRM for customer interactions:** |
-|:--------------------------------------------------------------:|:-------------------------------------------------------------------------:|:-----------------------------------------------------------------:|:--------------------------------------------------------------------------------:|
-| Google Drive                                                   | Telegram                                                                  | OpenAI                                                            | Zoho                                                                            |
-| Notion                                                         | WhatsApp                                                                  | Mistral AI                                                        | HubSpot                                                                         |
-| Dropbox                                                        | Instagram                                                                 | Meta Llama                                                        | Creatio                                                                         |
-| Atlassian                                                      | Facebook Messenger                                                        | Anthropic                                                         | Salesforce                                                                      |
-| Microsoft 365                                                  | Discord                                                                   | Google Gemini                                                     | Bitrix24                                                                        |
-| Zendesk                                                        | Slack                                                                     | Microsoft Azure                                                   | REST API support                                                                |
-| Rest API                                                       | Lark                                                                      |                                                                    |                                                                                 |
-| AWS S3 Bucket                                                  | WhatsApp Business                                                         |                                                                    |                                                                                 |
+### ADA-VDB-GPT
 
+![image](https://github.com/user-attachments/assets/29199ec9-a548-43c1-9fff-8dc51b942c65)
+
+
+1. **Input Processing**: 
+   - Unifies input data (BOT_NAME, DATABASE settings, AI_SETTINGS, etc.)
+   - Generates embeddings for user queries
+
+2. **Vector Database Query**:
+   - Determines the appropriate vector database (Pinecone or Chroma)
+   - Queries the database with the generated embedding
+
+3. **Context Creation**:
+   - Processes retrieved vectors to create a context for the GPT model
+
+4. **GPT Query**:
+   - Formulates a prompt including the context and user query
+   - Sends the prompt to OpenAI's chat completion API
+
+5. **Response Handling**:
+   - Processes the GPT response
+   - Saves conversation history
+   - Sends the response back to the user
+
+### Key Functions
+
+- `Input Data Unification`: Standardizes input data format
+- `create vector`: Prepares the context for GPT based on vector database results
+- `send to user from chat`: Processes GPT response and prepares it for the user
+- `save history`: Stores conversation details for future reference
+
+### Configuration
+
+The flow requires several configuration parameters, including:
+
+- OpenAI API key
+- Vector database credentials (Pinecone or Chroma)
+- Bot settings (name, prepared messages, AI settings)
+- Telegram bot token (for sending messages and typing indicators)
+
+### Error Handling and Debugging
+
+The flow includes basic error handling for API failures and unexpected responses. Multiple debug nodes are included throughout the flow for monitoring and troubleshooting purposes.
+
+### Notes for Developers
+
+- Ensure all required Node-RED nodes are installed, particularly for Chroma DB integration.
+- Properly configure environment variables for sensitive information like API keys.
+- The flow uses Node-RED's link nodes, implying that there might be additional connected flows not shown in this snippet.
+- The typing indicator functionality suggests this is part of a larger chatbot implementation, possibly for Telegram.
+
+### Future Improvements
+
+- Implement more robust error handling and logging
+- Add support for additional vector databases
+- Enhance the context creation process for more accurate responses
+- Implement rate limiting to prevent API overuse
 ## Resources
 
 👉 How to train your custom GPT Bot – [ChatGPT Prompt Configuration](https://community.ubos.tech/vika/chatgpt-prompt-configuration-14p2?_gl=1*1doc1f*_ga*MTYyOTM3NTU4OS4xNzAyNTQ4ODg2*_ga_YERL0FNTNF*MTcwMzA4NDA0Ni45LjEuMTcwMzA4NDc0MC4zNi4wLjA.&_ga=2.254612552.1594591842.1703072755-1629375589.1702548886)
