@@ -72,6 +72,8 @@ Monitor and manage conversations through a comprehensive admin panel, tracking i
 
 ## Technology Stack
 
+![Technology Stack](https://ubos.tech/wp-content/uploads/2024/07/ubos_example-1.png)
+
 ### Node-RED
 UBOS AI Chatbot utilizes Node-RED for orchestrating workflows and integrations. This powerful tool allows you to easily connect different services and APIs with a visual flow-based interface.
 
