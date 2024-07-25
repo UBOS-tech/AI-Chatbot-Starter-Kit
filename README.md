@@ -34,6 +34,7 @@ Are you seeking an edge in today’s competitive AI market? Your search ends her
 ## Features
 
 UBOS AI Chatbot is a customizable, white-label solution designed to enhance customer service, efficiency, and engagement across various platforms using advanced AI models.
+
 ### Platform Integration
 Deploy the chatbot on popular messaging platforms such as Telegram, WhatsApp, Instagram, Messenger, and integrate it into websites using a chat widget.
 
@@ -53,7 +54,6 @@ Add information to knowledge bases via multiple methods, including uploading fil
 Configure distinct behaviors for the chatbot per knowledge base, including setting specific responses, personalities, and managing unusual chat scenarios with predefined messages.
 
 ![image](https://github.com/user-attachments/assets/0531e3d7-b9a0-4aa8-a855-a3ead5ccb080)
-
 
 ### Manage Unusual Chat Scenarios
 Set predefined messages for starting conversations and when the bot is unable to answer, ensuring smooth user interactions.
@@ -86,12 +86,23 @@ Use Pinecone for vector database management, allowing the chatbot to handle comp
 ### MongoDB
 Implement MongoDB for robust, flexible, and scalable database solutions, providing a strong backbone for storing chatbot data and configurations.
 
+## Integration and Training Table
 
+| **Easily train your AI Chatbot on your data from any source:** | **Easily integrate AI Chatbot into your favorite communication channels:** | **Support for interaction with hundreds of popular AI models:** | **Connect your AI Chatbot to your favorite CRM for customer interactions:** |
+|:--------------------------------------------------------------:|:-------------------------------------------------------------------------:|:-----------------------------------------------------------------:|:--------------------------------------------------------------------------------:|
+| Google Drive                                                   | Telegram                                                                  | OpenAI                                                            | Zoho                                                                            |
+| Notion                                                         | WhatsApp                                                                  | Mistral AI                                                        | HubSpot                                                                         |
+| Dropbox                                                        | Instagram                                                                 | Meta Llama                                                        | Creatio                                                                         |
+| Atlassian                                                      | Facebook Messenger                                                        | Anthropic                                                         | Salesforce                                                                      |
+| Microsoft 365                                                  | Discord                                                                   | Google Gemini                                                     | Bitrix24                                                                        |
+| Zendesk                                                        | Slack                                                                     | Microsoft Azure                                                   | REST API support                                                                |
+| Rest API                                                       | Lark                                                                      |                                                                    |                                                                                 |
+| AWS S3 Bucket                                                  | WhatsApp Business                                                         |                                                                    |                                                                                 |
+
+## Resources
 
 👉 How to train your custom GPT Bot – [ChatGPT Prompt Configuration](https://community.ubos.tech/vika/chatgpt-prompt-configuration-14p2?_gl=1*1doc1f*_ga*MTYyOTM3NTU4OS4xNzAyNTQ4ODg2*_ga_YERL0FNTNF*MTcwMzA4NDA0Ni45LjEuMTcwMzA4NDc0MC4zNi4wLjA.&_ga=2.254612552.1594591842.1703072755-1629375589.1702548886)
 
 👀 [How to train ChatGPT and build knowledge base?](https://www.youtube.com/watch?v=1fspLZMhTxA&ab_channel=UBOS%3Alow-codeplatformtobuildGPTandAIapps)
 
 Imagine being able to launch a fully customized AI chatbot on Telegram, WhatsApp, Instagram, or Facebook within minutes, without writing a single line of code. With our AI Bot Template, that dream becomes a reality.
-
-
