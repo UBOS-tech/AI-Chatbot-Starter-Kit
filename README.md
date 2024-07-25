@@ -29,8 +29,6 @@ AI Bot – Custom GPT
 
 Are you seeking an edge in today’s competitive AI market? Your search ends here. UBOS.tech presents a custom GPT template, enabling businesses and developers to implement Generative AI technology today.
 
-# UBOS AI Chatbot
-
 UBOS AI Chatbot is a customizable, white-label solution designed to enhance customer service, efficiency, and engagement across various platforms using advanced AI models.
 
 ## Features
