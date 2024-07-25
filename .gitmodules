@@ -1,8 +1,6 @@
-[submodule "UBOS-template-AI-Bot-Custom-GPT-ui"]
-	path = UBOS-template-AI-Bot-Custom-GPT-ui
-	url = https://github.com/UBOS-Asset-Store/UBOS-template-AI-Bot-Custom-GPT-ui.git
-	branch = main
-[submodule "UBOS-template-AI-Bot-Custom-GPT-nr"]
-	path = UBOS-template-AI-Bot-Custom-GPT-nr
-	url = https://github.com/UBOS-Asset-Store/UBOS-template-AI-Bot-Custom-GPT-nr.git
-	branch = main
+[submodule "Generative-AI-Bot-UI"]
+   path = Generative-AI-Bot-UI
+   url = https://github.com/UBOS-Asset-Store/Generative-AI-Bot-UI.git
+[submodule "Generative-AI-Bot-NR"]
+   path = Generative-AI-Bot-NR
+   url = https://github.com/UBOS-Asset-Store/Generative-AI-Bot-NR.git
