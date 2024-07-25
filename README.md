@@ -35,12 +35,12 @@ UBOS AI Chatbot is a customizable, white-label solution designed to enhance cust
 ### Platform Integration
 Deploy the chatbot on popular messaging platforms such as Telegram, WhatsApp, Instagram, Messenger, and integrate it into websites using a chat widget.
 
-[Platform Integration](https://ubos.tech/wp-content/uploads/2023/07/demo_pages_botsetup-1.png)
+![Platform Integration](https://ubos.tech/wp-content/uploads/2023/07/demo_pages_botsetup-1.png)
 
 ### Create Knowledge Bases
 Develop and manage multiple knowledge bases tailored to different sets of information, allowing the chatbot to provide context-specific responses.
 
-[Create Knowledge Bases](https://ubos.tech/wp-content/uploads/2023/07/demo_pages_training-1.png)
+![Create Knowledge Bases](https://ubos.tech/wp-content/uploads/2023/07/demo_pages_training-1.png)
 
 ### Flexible Knowledge Base Input
 Add information to knowledge bases via multiple methods, including uploading files, inserting text directly, adding from websites, or using FAQs.
