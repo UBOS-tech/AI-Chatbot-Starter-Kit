@@ -27,6 +27,8 @@ AI Bot – Custom GPT
 
 **Train ChatGPT, 1000+ Integrations, Open Source, Extend with JavaScript**
 
+![Integrations](https://ubos.tech/wp-content/uploads/2024/07/AI-Chatbot-Visual.png)
+
 Are you seeking an edge in today’s competitive AI market? Your search ends here. UBOS.tech presents a custom GPT template, enabling businesses and developers to implement Generative AI technology today.
 
 ## Features
