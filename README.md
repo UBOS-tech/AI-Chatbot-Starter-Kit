@@ -87,15 +87,6 @@ Use Pinecone for vector database management, allowing the chatbot to handle comp
 Implement MongoDB for robust, flexible, and scalable database solutions, providing a strong backbone for storing chatbot data and configurations.
 
 
-<p align="center">
-  <img width="80%" align="center" alt="Train ChatGPT" src="https://github.com/UBOS-tech/AI-Bot-Custom-GPT/assets/41735477/a38d7157-69b9-476b-9f8b-0f403c16b844">
-</p>
-
-Our state-of-the-art solution seamlessly integrates with ChatGPT and Vector database like Chroma, allowing you to train your personal AI Assistant or AI Bot within 5 minutes. Yes, you heard that right – only 5 minutes!
-<p align="center">
-  <img width="1440" alt="AI-Bot-Custom-GPT" src="https://github.com/UBOS-tech/AI-Bot-Custom-GPT/assets/76822866/56742d1d-425e-4e96-b7d5-65f1541319fb">
-  <img width="1440" alt="AI-Bot-Custom-GPT" src="https://github.com/UBOS-Asset-Store/UBOS-template-AI-Bot-Custom-GPT-nr/assets/76822866/10cf53ee-65a0-468d-a409-135b166468c7">
-</p>
 
 👉 How to train your custom GPT Bot – [ChatGPT Prompt Configuration](https://community.ubos.tech/vika/chatgpt-prompt-configuration-14p2?_gl=1*1doc1f*_ga*MTYyOTM3NTU4OS4xNzAyNTQ4ODg2*_ga_YERL0FNTNF*MTcwMzA4NDA0Ni45LjEuMTcwMzA4NDc0MC4zNi4wLjA.&_ga=2.254612552.1594591842.1703072755-1629375589.1702548886)
 
@@ -104,28 +95,3 @@ Our state-of-the-art solution seamlessly integrates with ChatGPT and Vector data
 Imagine being able to launch a fully customized AI chatbot on Telegram, WhatsApp, Instagram, or Facebook within minutes, without writing a single line of code. With our AI Bot Template, that dream becomes a reality.
 
 
-
-## Feature Comparison
-
-| Feature                                         | UBOS AI Chatbot   |
-|-------------------------------------------------|-------------------|
-| Programming Approach                            | API + App-oriented| 
-| Supported LLMs                                  | Rich Variety      |
-| RAG Engine                                      | ✅                |
-| Agent                                           | ✅                | 
-| Workflow                                        | ✅                | 
-| Observability                                   | ✅                | 
-| Enterprise Features (SSO/Access control)        | ✅                | 
-| Local Deployment                                | ✅                | 
-| Multi-language Support                          | ✅                |
-| Admin Panel CRM                                 | ✅                | 
-| Knowledge Base Testing Tools                    | ✅                | 
-| Flexible Knowledge Base Input                   | ✅                |
-| Affordable Pricing                              | ✅                |
-
-### Technology Stack
-
-- **Node-RED**: Orchestrates workflows and integrations.
-- **Chroma DB**: Efficient and scalable data storage.
-- **Pinecone**: Vector database management.
-- **MongoDB**: Robust, flexible database solutions.
