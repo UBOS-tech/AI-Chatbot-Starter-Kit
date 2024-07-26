@@ -16,7 +16,7 @@ An  README for template AI Chatbot Starter Kit
 #### [View Demo](https://platform.ubos.tech/?aiBotV3=true) · [Report Bug](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/issues) · [Request Feature](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/issues)
 
 </div>
-==============
+
 
 ## 📔 Table of Contents
 
