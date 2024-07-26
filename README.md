@@ -16,78 +16,36 @@ An  README for template AI Chatbot Starter Kit
 #### [View Demo](https://platform.ubos.tech/?aiBotV3=true) · [Report Bug](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/issues) · [Request Feature](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/issues)
 
 </div>
-
-AI Bot – Custom GPT
 ==============
-<p align="center">
-  <img width="50%" align="center" alt="Ubos - End-to-End Software Development Platform" src="https://ubos.tech/wp-content/uploads/2023/03/cropped-Group-21015-1.png">
-</p>
 
 ## 📔 Table of Contents
-<ul dir="auto">
 
-<li><a href="#star2-about-the-project">About the Project</a>
-
-<ul dir="auto">
-
-<li><a href="#camera-screenshots">Screenshots</a></li>
-
-<li><a href="#space_invader-tech-stack">Tech Stack</a></li>
-
-<li><a href="#dart-features">Features</a></li>
-
-<li><a href="#art-color-reference">Color Reference</a></li>
-
-<li><a href="#key-environment-variables">Environment Variables</a></li>
-
-</ul>
-
-</li>
-
-<li><a href="#toolbox-getting-started">Getting Started</a>
-
-<ul dir="auto">
-
-<li><a href="#bangbang-prerequisites">Prerequisites</a></li>
-
-<li><a href="#gear-installation">Installation</a></li>
-
-<li><a href="#test_tube-running-tests">Running Tests</a></li>
-
-<li><a href="#running-run-locally">Run Locally</a></li>
-
-<li><a href="#triangular_flag_on_post-deployment">Deployment</a></li>
-
-</ul>
-
-</li>
-
-<li><a href="#eyes-usage">Usage</a></li>
-
-<li><a href="#compass-roadmap">Roadmap</a></li>
-
-<li><a href="#wave-contributing">Contributing</a>
-
-<ul dir="auto">
-
-<li><a href="#scroll-code-of-conduct">Code of Conduct</a></li>
-
-</ul>
-
-</li>
-
-<li><a href="#grey_question-faq">FAQ</a></li>
-
-<li><a href="#warning-license">License</a></li>
-
-<li><a href="#handshake-contact">Contact</a></li>
-
-<li><a href="#gem-acknowledgements">Acknowledgements</a></li>
-
-</ul>
+- [:star2: About the Project](#star2-about-the-project)
+  - [:camera: Screenshots](#camera-screenshots)
+  - [:space_invader: Tech Stack](#space_invader-tech-stack)
+  - [:dart: Features](#dart-features)
+  - [:art: Color Reference](#art-color-reference)
+  - [:key: Environment Variables](#key-environment-variables)
+- [:toolbox: Getting Started](#toolbox-getting-started)
+  - [:bangbang: Prerequisites](#bangbang-prerequisites)
+  - [:gear: Installation](#gear-installation)
+  - [:test_tube: Running Tests](#test_tube-running-tests)
+  - [:running: Run Locally](#running-run-locally)
+  - [:triangular_flag_on_post: Deployment](#triangular_flag_on_post-deployment)
+- [:eyes: Usage](#eyes-usage)
+- [:compass: Roadmap](#compass-roadmap)
+- [:wave: Contributing](#wave-contributing)
+  - [:scroll: Code of Conduct](#scroll-code-of-conduct)
+- [:grey_question: FAQ](#grey_question-faq)
+- [:warning: License](#warning-license)
+- [:handshake: Contact](#handshake-contact)
+- [:gem: Acknowledgements](#gem-acknowledgements)
 
 
 
+
+
+## :star2: About the Project
 
 ## Dependencies
 
