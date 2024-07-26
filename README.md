@@ -45,6 +45,7 @@ An  README for template AI Chatbot Starter Kit
 ## :star2: About the Project
 
 ## :camera-screenshots: Screenshots
+
 <div align="center">
 
 ![demo_pages_analytics](https://ubos.tech/wp-content/uploads/2023/07/demo_pages_analytics.png)
