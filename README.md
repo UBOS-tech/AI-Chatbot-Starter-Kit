@@ -87,12 +87,12 @@ Project build by UBOS team using Nodered, mondo db , ui based on appsmith.
 <details open>
   <summary>Libraries</summary>
   <ul>
-    <li><a href="https://github.com/jsdom/jsdom">jsdom</a>: 22.1.0 - JavaScript DOM manipulation</li>
-    <li><a href="https://www.npmjs.com/package/@martip/node-red-xlsx">@martip/node-red-xlsx</a>: 1.0.2 - XLSX file handling</li>
-    <li><a href="https://www.trychroma.com/">chromadb</a>: 1.5.11 - Chroma DB client</li>
-    <li><a href="https://github.com/openai/openai-node">openai</a>: 4.14.2 - OpenAI API client</li>
-    <li><a href="https://momentjs.com/">moment</a>: 2.29.4 - Date and time manipulation</li>
-    <li><a href="https://github.com/kelektiv/node.bcrypt.js">bcrypt</a>: 5.1.1 - Password hashing</li>
+    <li><a href="https://github.com/jsdom/jsdom">jsdom</a>/li>
+    <li><a href="https://www.npmjs.com/package/@martip/node-red-xlsx"></li>
+    <li><a href="https://www.trychroma.com/">chromadb</a></li>
+    <li><a href="https://github.com/openai/openai-node">openai</a></li>
+    <li><a href="https://momentjs.com/">moment</a></li>
+    <li><a href="https://github.com/kelektiv/node.bcrypt.js">bcrypt</a></li>
   </ul>
 </details>
 
