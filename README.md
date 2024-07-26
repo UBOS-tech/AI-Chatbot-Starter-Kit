@@ -188,7 +188,12 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 ## :warning: License
 
-Distributed under the no License. See LICENSE.txt for more information.
+Distributed under the no License. See `LICENSE.txt` for more information.
+
+## :handshake: Contact
+
+- `email:` support@ubos.tech;
+- `[discord](https://discord.com/invite/dt59QaptH2)`
 
 ## Resources
 
