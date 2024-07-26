@@ -193,12 +193,23 @@ Distributed under the no License. See `LICENSE.txt` for more information.
 ## :handshake: Contact
 
 - `email:` support@ubos.tech;
-- `[discord](https://discord.com/invite/dt59QaptH2)`
+- [discord](https://discord.com/invite/dt59QaptH2)
 
-## Resources
+## :gem: Acknowledgements
 
-👉 How to train your custom GPT Bot – [ChatGPT Prompt Configuration](https://community.ubos.tech/vika/chatgpt-prompt-configuration-14p2?_gl=1*1doc1f*_ga*MTYyOTM3NTU4OS4xNzAyNTQ4ODg2*_ga_YERL0FNTNF*MTcwMzA4NDA0Ni45LjEuMTcwMzA4NDc0MC4zNi4wLjA.&_ga=2.254612552.1594591842.1703072755-1629375589.1702548886)
+## :gem: Acknowledgements
 
-👀 [How to train ChatGPT and build knowledge base?](https://www.youtube.com/watch?v=1fspLZMhTxA&ab_channel=UBOS%3Alow-codeplatformtobuildGPTandAIapps)
+- [Working with Chroma DB](https://community.ubos.tech/dmytro_mytsak/how-to-work-with-chroma-db-4oe)
+- [Training Bots with Different Types of Sources](https://community.ubos.tech/vika/how-to-training-bot-by-different-types-of-source-46h9)
+- [ChatGPT Prompt Configuration](https://community.ubos.tech/vika/chatgpt-prompt-configuration-14p2)
+- [Setting Up a Messenger Bot: A Step-by-Step Guide](https://community.ubos.tech/olha/setting-up-a-messenger-bot-a-step-by-step-guide-2hk4)
+- [Setting Up an Instagram Bot: A Step-by-Step Guide](https://community.ubos.tech/olha/setting-up-an-instagram-bot-a-step-by-step-guide-k95)
+- [Guide to Setting Up a WhatsApp Bot on Facebook API](https://community.ubos.tech/olha/step-by-step-guide-setting-up-whatsapp-bot-on-facebook-api-gn3)
+- [Working with Large Files in AI Chatbots](https://community.ubos.tech/vika/working-with-large-files-in-ai-chat-bot-2aap)
+- [Customer Support Chatbot](https://community.ubos.tech/vika/customersupportchatbot-1ac8)
 
-Imagine being able to launch a fully customized AI chatbot on Telegram, WhatsApp, Instagram, or Facebook within minutes, without writing a single line of code. With our AI Bot Template, that dream becomes a reality.
+Additional Resources:
+- [7-Minute Guide to Training Custom AI Chatbots with a Private Knowledge Base](#) 
+- [Getting Started with UBOS.tech: A Comprehensive Platform Guide](#) – Platform overview and API connection.
+- [Build AI-Powered CRUD App with Node-RED, Appsmith, MongoDB, and OpenAI API | Course Intro](#) – Guide to building CRUD applications.
+
