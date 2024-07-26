@@ -24,7 +24,7 @@ An  README for template AI Chatbot Starter Kit
   - [:camera: Screenshots](#camera-screenshots)
   - [:space_invader: Tech Stack](#space_invader-tech-stack)
   - [:dart: Features](#dart-features)
-  - [:art: Color Reference](#art-color-reference)
+  - [:ada: ADA-VectorDB-ChatGPT](#art-color-reference)
   - [:key: Environment Variables](#key-environment-variables)
 - [:toolbox: Getting Started](#toolbox-getting-started)
   - [:bangbang: Prerequisites](#bangbang-prerequisites)
@@ -121,9 +121,7 @@ Please ensure these dependencies are installed and properly configured to utiliz
 
 
 
-## Node-RED Flow Details
-
-### ADA-VDB-GPT
+## :ada ADA-VectorDB-ChatGPT
 
 ![image](https://github.com/user-attachments/assets/29199ec9-a548-43c1-9fff-8dc51b942c65)
 
