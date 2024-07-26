@@ -24,7 +24,7 @@ An  README for template AI Chatbot Starter Kit
   - [:camera: Screenshots](#camera-screenshots)
   - [:space_invader: Tech Stack](#space_invader-tech-stack)
   - [:dart: Features](#dart-features)
-  - [:ada: ADA-VectorDB-ChatGPT](#ada-vectordb-chatgpt)
+  - [:ada: ADA-VectorDB-ChatGPT](#ada-ada-vectordb-chatgpt)
   - [:key: Environment Variables](#key-environment-variables)
 - [:toolbox: Getting Started](#toolbox-getting-started)
   - [:bangbang: Prerequisites](#bangbang-prerequisites)
