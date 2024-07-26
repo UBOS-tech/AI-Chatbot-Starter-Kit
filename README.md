@@ -119,8 +119,6 @@ Please ensure these dependencies are installed and properly configured to utiliz
 - `Dynamic Behavior Configuration`
 - `Multi-language Support`
 
-
-
 ## :ada ADA-VectorDB-ChatGPT
 
 ![image](https://github.com/user-attachments/assets/29199ec9-a548-43c1-9fff-8dc51b942c65)
