@@ -29,10 +29,6 @@ An  README for template AI Chatbot Starter Kit
 - [:toolbox: Getting Started](#toolbox-getting-started)
   - [:bangbang: Prerequisites](#bangbang-prerequisites)
   - [:gear: Installation](#gear-installation)
-  - [:test_tube: Running Tests](#test_tube-running-tests)
-  - [:running: Run Locally](#running-run-locally)
-  - [:triangular_flag_on_post: Deployment](#triangular_flag_on_post-deployment)
-- [:eyes: Usage](#eyes-usage)
 - [:compass: Roadmap](#compass-roadmap)
 - [:wave: Contributing](#wave-contributing)
   - [:scroll: Code of Conduct](#scroll-code-of-conduct)
@@ -177,12 +173,15 @@ Please ensure these dependencies are installed and properly configured to utiliz
 **SAAS**
 1. Access the project using [this link](https://platform.ubos.tech/?aiBotV3=true).
 
-### Future Improvements
+## :compass: Roadmap
 
-- Implement more robust error handling and logging
-- Add support for additional vector databases
-- Enhance the context creation process for more accurate responses
-- Implement rate limiting to prevent API overuse
+- Implement more robust error handling and logging.
+- Add support for additional vector databases.
+- Enhance the context creation process for more accurate responses.
+- Implement rate limiting to prevent API overuse.
+- Integrate additional Large Language Models (LLMs).
+- Add CRM integration.
+
 ## Resources
 
 👉 How to train your custom GPT Bot – [ChatGPT Prompt Configuration](https://community.ubos.tech/vika/chatgpt-prompt-configuration-14p2?_gl=1*1doc1f*_ga*MTYyOTM3NTU4OS4xNzAyNTQ4ODg2*_ga_YERL0FNTNF*MTcwMzA4NDA0Ni45LjEuMTcwMzA4NDc0MC4zNi4wLjA.&_ga=2.254612552.1594591842.1703072755-1629375589.1702548886)
