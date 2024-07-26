@@ -54,6 +54,7 @@ Project build by UBOS team using Nodered, mondo db , ui based on appsmith.
   <img src="https://ubos.tech/wp-content/uploads/2023/07/demo_pages_setupconfig.png" alt="start page" width="30%" />
 </div>
 
+
 ## :space_invader Tech Stack
 
 Our project relies on several Node-RED nodes and additional libraries. Below is a list of the key dependencies:
