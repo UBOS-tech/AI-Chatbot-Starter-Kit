@@ -4,9 +4,6 @@
 
 # AI Chatbot Starter Kit
 
-![image](https://github.com/user-attachments/assets/68582236-5197-4dfe-8827-af9c983ea9b2)
-
-
 An  README for template AI Chatbot Starter Kit
 
 [![contributors](https://github.com/user-attachments/assets/45df29b9-b0ee-484e-84b4-dcb9d7dfe212)](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/graphs/contributors)
