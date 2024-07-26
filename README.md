@@ -3,13 +3,14 @@
 <img src="https://github.com/user-attachments/assets/05e922cb-dfd8-42d7-bbd8-d9f31607974a" alt="logo" width="200" height="auto" />
 
 # AI Chatbot Starter Kit
+![image](https://github.com/user-attachments/assets/faac0d93-fa7d-4325-ae00-f66950380f9a)
 
 An  README for template AI Chatbot Starter Kit
 
 [![contributors](https://github.com/user-attachments/assets/45df29b9-b0ee-484e-84b4-dcb9d7dfe212)](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/graphs/contributors)
 [![last update](https://github.com/user-attachments/assets/09182d4a-5411-43f9-a60f-87c3688d35b1)](https://github.com/UBOS-Asset-Store/Generative-AI-Bot-NR/commits/master/)
-[![forks](https://img.shields.io/github/forks/Louis3797/awesome-readme-template)](https://github.com/Louis3797/awesome-readme-template/network/members)
-[![stars](https://img.shields.io/github/stars/Louis3797/awesome-readme-template)](https://github.com/Louis3797/awesome-readme-template/stargazers)
+[![forks](https://github.com/user-attachments/assets/faac0d93-fa7d-4325-ae00-f66950380f9a)](https://github.com/UBOS-Asset-Store/Generative-AI-Bot-NR/network/members)
+[![stars](https://github.com/user-attachments/assets/c0a3ffa4-841a-42c8-9b44-7f9651a3ab19)](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/stargazers)
 [![open issues](https://img.shields.io/github/issues/Louis3797/awesome-readme-template)](https://github.com/Louis3797/awesome-readme-template/issues/)
 [![license](https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg)](https://github.com/Louis3797/awesome-readme-template/blob/master/LICENSE)
 
