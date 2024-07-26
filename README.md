@@ -43,7 +43,6 @@ An  README for template AI Chatbot Starter Kit
 
 
 ## :star2: About the Project
-
 Project build by UBOS team using Nodered, mondo db , ui based on appsmith. 
 
 
@@ -56,9 +55,9 @@ Project build by UBOS team using Nodered, mondo db , ui based on appsmith.
 </div>
 
 
-## :space_invader Tech Stack
-
+## :space_invader: Tech Stack
 Our project relies on several Node-RED nodes and additional libraries. Below is a list of the key dependencies:
+
 
 ### Node-RED Nodes
 - `node-red-contrib-fs`: `1.4.1` - File system operations
