@@ -42,12 +42,15 @@ An  README for template AI Chatbot Starter Kit
 - [:gem: Acknowledgements](#gem-acknowledgements)
 
 
-
-
-
 ## :star2: About the Project
 
-[![start page](https://ubos.tech/wp-content/uploads/2024/07/20240726-143713-jpeg.webp)
+## :camera-screenshots: Screenshots
+<div align="center">
+
+![demo_pages_analytics](https://ubos.tech/wp-content/uploads/2023/07/demo_pages_analytics.png)
+![start page](https://ubos.tech/wp-content/uploads/2024/07/20240726-143713-jpeg.webp)
+
+</div>
 
 ## Dependencies
 
