@@ -1,3 +1,22 @@
+<div align="center">
+
+![logo](/Louis3797/awesome-readme-template/raw/main/assets/logo.png)
+
+# Awesome Readme Template
+
+An awesome README template for your projects!
+
+[![contributors](https://img.shields.io/github/contributors/Louis3797/awesome-readme-template)](https://github.com/Louis3797/awesome-readme-template/graphs/contributors)
+[![last update](https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template)](https://github.com/Louis3797/awesome-readme-template/blob/main)
+[![forks](https://img.shields.io/github/forks/Louis3797/awesome-readme-template)](https://github.com/Louis3797/awesome-readme-template/network/members)
+[![stars](https://img.shields.io/github/stars/Louis3797/awesome-readme-template)](https://github.com/Louis3797/awesome-readme-template/stargazers)
+[![open issues](https://img.shields.io/github/issues/Louis3797/awesome-readme-template)](https://github.com/Louis3797/awesome-readme-template/issues/)
+[![license](https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg)](https://github.com/Louis3797/awesome-readme-template/blob/master/LICENSE)
+
+#### [View Demo](https://github.com/Louis3797/awesome-readme-template/) · [Documentation](https://github.com/Louis3797/awesome-readme-template) · [Report Bug](https://github.com/Louis3797/awesome-readme-template/issues/) · [Request Feature](https://github.com/Louis3797/awesome-readme-template/issues/)
+
+</div>
+
 AI Bot – Custom GPT
 ==============
 <p align="center">
