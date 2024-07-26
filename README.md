@@ -23,13 +23,71 @@ AI Bot – Custom GPT
   <img width="50%" align="center" alt="Ubos - End-to-End Software Development Platform" src="https://ubos.tech/wp-content/uploads/2023/03/cropped-Group-21015-1.png">
 </p>
 
-## Build custom GPT Bots
+## 📔 Table of Contents
+<ul dir="auto">
 
-**Train ChatGPT, 1000+ Integrations, Open Source, Extend with JavaScript**
+<li><a href="#star2-about-the-project">About the Project</a>
 
-![Integrations](https://ubos.tech/wp-content/uploads/2024/07/AI-Chatbot-Visual.png)
+<ul dir="auto">
 
-Are you seeking an edge in today’s competitive AI market? Your search ends here. UBOS.tech presents a custom GPT template, enabling businesses and developers to implement Generative AI technology today.
+<li><a href="#camera-screenshots">Screenshots</a></li>
+
+<li><a href="#space_invader-tech-stack">Tech Stack</a></li>
+
+<li><a href="#dart-features">Features</a></li>
+
+<li><a href="#art-color-reference">Color Reference</a></li>
+
+<li><a href="#key-environment-variables">Environment Variables</a></li>
+
+</ul>
+
+</li>
+
+<li><a href="#toolbox-getting-started">Getting Started</a>
+
+<ul dir="auto">
+
+<li><a href="#bangbang-prerequisites">Prerequisites</a></li>
+
+<li><a href="#gear-installation">Installation</a></li>
+
+<li><a href="#test_tube-running-tests">Running Tests</a></li>
+
+<li><a href="#running-run-locally">Run Locally</a></li>
+
+<li><a href="#triangular_flag_on_post-deployment">Deployment</a></li>
+
+</ul>
+
+</li>
+
+<li><a href="#eyes-usage">Usage</a></li>
+
+<li><a href="#compass-roadmap">Roadmap</a></li>
+
+<li><a href="#wave-contributing">Contributing</a>
+
+<ul dir="auto">
+
+<li><a href="#scroll-code-of-conduct">Code of Conduct</a></li>
+
+</ul>
+
+</li>
+
+<li><a href="#grey_question-faq">FAQ</a></li>
+
+<li><a href="#warning-license">License</a></li>
+
+<li><a href="#handshake-contact">Contact</a></li>
+
+<li><a href="#gem-acknowledgements">Acknowledgements</a></li>
+
+</ul>
+
+
+
 
 ## Dependencies
 
