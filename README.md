@@ -58,6 +58,11 @@ Project build by UBOS team using Nodered, mondo db , ui based on appsmith.
 ## :space_invader: Tech Stack
 Our project relies on several Node-RED nodes and additional libraries. Below is a list of the key dependencies:
 
+### Client
+- `AppSmith`:  - UI Based on AppSmith
+
+### Server
+- `NodeRed`
 
 ### Node-RED Nodes
 - `node-red-contrib-fs`: `1.4.1` - File system operations
@@ -76,6 +81,11 @@ Our project relies on several Node-RED nodes and additional libraries. Below is 
 - `openai`: `4.14.2` - OpenAI API client
 - `moment`: `2.29.4` - Date and time manipulation
 - `bcrypt`: `5.1.1` - Password hashing
+
+  ### Database
+- `MongoDB`
+- `ChromaDB`
+- `Pinecone`
 
 Please ensure these dependencies are installed and properly configured to utilize the full capabilities of the AI Bot.
 
