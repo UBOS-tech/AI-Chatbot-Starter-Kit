@@ -166,6 +166,17 @@ Please ensure these dependencies are installed and properly configured to utiliz
 - Sign up for a free [UBOS](https://platform.ubos.tech/) account.
 - Ensure you have a server with at least 2GB of RAM and 1 CPU.
 
+### :gear: Installation
+
+**White Label**
+1. Open the Template Manager on the UBOS platform and search for "AI Chatbot Starter Kit" or use [this direct link](https://platform.ubos.tech/?templateId=6683ed1f52da610011914678).
+2. Select your desired server plan.
+3. Click on "Install."
+4. Wait 5-7 minutes for the installation to complete and all settings to be applied.
+
+**SAAS**
+1. Access the project using [this link](https://platform.ubos.tech/?aiBotV3=true).
+
 ### Future Improvements
 
 - Implement more robust error handling and logging
