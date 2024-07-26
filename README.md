@@ -146,10 +146,18 @@ Please ensure these dependencies are installed and properly configured to utiliz
 
 ## :key: Environment Variables
 
-- `Input Data Unification`: Standardizes input data format
-- `create vector`: Prepares the context for GPT based on vector database results
-- `send to user from chat`: Processes GPT response and prepares it for the user
-- `save history`: Stores conversation details for future reference
+### Node-RED Environment Variables
+- `nodered`
+- `uiUrl`
+- `VECTORDB-CHROMA-HOST-NAME`
+- `AIBOTDB-MONGO-HOST-NAME`
+- `AIBOTDB-MONGO-DB-NAME`
+- `AIBOTDB-MONGO-USER-NAME`
+- `AIBOTDB-MONGO-PASSWORD`
+
+### UI Environment Variables
+- `uiUrl`
+- `nodeUrl`
 
 ### Configuration
 
