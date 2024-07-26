@@ -160,10 +160,6 @@ The flow requires several configuration parameters, including:
 - Bot settings (name, prepared messages, AI settings)
 - Telegram bot token (for sending messages and typing indicators)
 
-### Error Handling and Debugging
-
-The flow includes basic error handling for API failures and unexpected responses. Multiple debug nodes are included throughout the flow for monitoring and troubleshooting purposes.
-
 ### Notes for Developers
 
 - Ensure all required Node-RED nodes are installed, particularly for Chroma DB integration.
