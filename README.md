@@ -54,40 +54,56 @@ Project build by UBOS team using Nodered, mondo db , ui based on appsmith.
   <img src="https://ubos.tech/wp-content/uploads/2023/07/demo_pages_setupconfig.png" alt="start page" width="30%" />
 </div>
 
-
-
 ## :space_invader: Tech Stack
-Our project relies on several Node-RED nodes and additional libraries. Below is a list of the key dependencies:
 
-### Client
-- [AppSmith](https://www.appsmith.com/): UI Based on AppSmith
+<details open>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://www.appsmith.com/">AppSmith</a> - UI Based on AppSmith</li>
+  </ul>
+</details>
 
-### Server
-- [Node-RED](https://nodered.org/)
+<details open>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://nodered.org/">Node-RED</a></li>
+  </ul>
+</details>
 
-### Node-RED Nodes
-- [node-red-contrib-fs](https://flows.nodered.org/node/node-red-contrib-fs): `1.4.1` - File system operations
-- [node-red-contrib-loop-processing](https://flows.nodered.org/node/node-red-contrib-loop-processing): `0.5.1` - Loop processing
-- [node-red-contrib-openai-ubos](https://flows.nodered.org/node/node-red-contrib-openai-ubos): `1.0.4` - OpenAI integration
-- [node-red-contrib-telegrambot](https://flows.nodered.org/node/node-red-contrib-telegrambot): `15.1.9` - Telegram bot integration
-- [node-red-node-mongodb](https://flows.nodered.org/node/node-red-node-mongodb): `0.2.5` - MongoDB integration
-- [node-red-contrib-pdfparse](https://flows.nodered.org/node/node-red-contrib-pdfparse): `1.0.6` - PDF parsing
-- [node-red-contrib-pinecone](https://flows.nodered.org/node/node-red-contrib-pinecone): `1.0.7` - Pinecone integration
-- [node-red-contrib-chromadb](https://flows.nodered.org/node/node-red-contrib-chromadb): `1.0.0` - Chroma DB integration
+<details open>
+  <summary>Node-RED Nodes</summary>
+  <ul>
+    <li><a href="https://flows.nodered.org/node/node-red-contrib-fs">node-red-contrib-fs</a>: `1.4.1` - File system operations</li>
+    <li><a href="https://flows.nodered.org/node/node-red-contrib-loop-processing">node-red-contrib-loop-processing</a>: `0.5.1` - Loop processing</li>
+    <li><a href="https://flows.nodered.org/node/node-red-contrib-openai-ubos">node-red-contrib-openai-ubos</a>: `1.0.4` - OpenAI integration</li>
+    <li><a href="https://flows.nodered.org/node/node-red-contrib-telegrambot">node-red-contrib-telegrambot</a>: `15.1.9` - Telegram bot integration</li>
+    <li><a href="https://flows.nodered.org/node/node-red-node-mongodb">node-red-node-mongodb</a>: `0.2.5` - MongoDB integration</li>
+    <li><a href="https://flows.nodered.org/node/node-red-contrib-pdfparse">node-red-contrib-pdfparse</a>: `1.0.6` - PDF parsing</li>
+    <li><a href="https://flows.nodered.org/node/node-red-contrib-pinecone">node-red-contrib-pinecone</a>: `1.0.7` - Pinecone integration</li>
+    <li><a href="https://flows.nodered.org/node/node-red-contrib-chromadb">node-red-contrib-chromadb</a>: `1.0.0` - Chroma DB integration</li>
+  </ul>
+</details>
 
-### Libraries
-- [jsdom](https://github.com/jsdom/jsdom): `22.1.0` - JavaScript DOM manipulation
-- [@martip/node-red-xlsx](https://www.npmjs.com/package/@martip/node-red-xlsx): `1.0.2` - XLSX file handling
-- [chromadb](https://www.trychroma.com/): `1.5.11` - Chroma DB client
-- [openai](https://github.com/openai/openai-node): `4.14.2` - OpenAI API client
-- [moment](https://momentjs.com/): `2.29.4` - Date and time manipulation
-- [bcrypt](https://github.com/kelektiv/node.bcrypt.js): `5.1.1` - Password hashing
+<details open>
+  <summary>Libraries</summary>
+  <ul>
+    <li><a href="https://github.com/jsdom/jsdom">jsdom</a>: `22.1.0` - JavaScript DOM manipulation</li>
+    <li><a href="https://www.npmjs.com/package/@martip/node-red-xlsx">@martip/node-red-xlsx</a>: `1.0.2` - XLSX file handling</li>
+    <li><a href="https://www.trychroma.com/">chromadb</a>: `1.5.11` - Chroma DB client</li>
+    <li><a href="https://github.com/openai/openai-node">openai</a>: `4.14.2` - OpenAI API client</li>
+    <li><a href="https://momentjs.com/">moment</a>: `2.29.4` - Date and time manipulation</li>
+    <li><a href="https://github.com/kelektiv/node.bcrypt.js">bcrypt</a>: `5.1.1` - Password hashing</li>
+  </ul>
+</details>
 
-### Databases
-- [MongoDB](https://www.mongodb.com/)
-- [ChromaDB](https://www.trychroma.com/)
-- [Pinecone](https://www.pinecone.io/)
-
+<details open>
+  <summary>Databases</summary>
+  <ul>
+    <li><a href="https://www.mongodb.com/">MongoDB</a></li>
+    <li><a href="https://www.trychroma.com/">ChromaDB</a></li>
+    <li><a href="https://www.pinecone.io/">Pinecone</a></li>
+  </ul>
+</details>
 Please ensure these dependencies are installed and properly configured to utilize the full capabilities of the AI Bot.
 
 
