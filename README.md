@@ -47,6 +47,8 @@ An  README for template AI Chatbot Starter Kit
 
 ## :star2: About the Project
 
+[![start page](https://ubos.tech/wp-content/uploads/2024/07/20240726-143713-jpeg.webp)
+
 ## Dependencies
 
 Our project relies on several Node-RED nodes and additional libraries. Below is a list of the key dependencies:
