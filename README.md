@@ -73,14 +73,14 @@ Project build by UBOS team using Nodered, mondo db , ui based on appsmith.
 <details open>
   <summary>Node-RED Nodes</summary>
   <ul>
-    <li><a href="https://flows.nodered.org/node/node-red-contrib-fs">node-red-contrib-fs</a>: 1.4.1 - File system operations</li>
-    <li><a href="https://flows.nodered.org/node/node-red-contrib-loop-processing">node-red-contrib-loop-processing</a>: 0.5.1 - Loop processing</li>
-    <li><a href="https://flows.nodered.org/node/node-red-contrib-openai-ubos">node-red-contrib-openai-ubos</a>: 1.0.4 - OpenAI integration</li>
-    <li><a href="https://flows.nodered.org/node/node-red-contrib-telegrambot">node-red-contrib-telegrambot</a>: 15.1.9 - Telegram bot integration</li>
-    <li><a href="https://flows.nodered.org/node/node-red-node-mongodb">node-red-node-mongodb</a>: 0.2.5 - MongoDB integration</li>
-    <li><a href="https://flows.nodered.org/node/node-red-contrib-pdfparse">node-red-contrib-pdfparse</a>: 1.0.6 - PDF parsing</li>
-    <li><a href="https://flows.nodered.org/node/node-red-contrib-pinecone">node-red-contrib-pinecone</a>: 1.0.7 - Pinecone integration</li>
-    <li><a href="https://flows.nodered.org/node/node-red-contrib-chromadb">node-red-contrib-chromadb</a>: 1.0.0 - Chroma DB integration</li>
+    <li><a href="https://flows.nodered.org/node/node-red-contrib-fs">node-red-contrib-fs</a></li>
+    <li><a href="https://flows.nodered.org/node/node-red-contrib-loop-processing">node-red-contrib-loop-processing</a></li>
+    <li><a href="https://flows.nodered.org/node/node-red-contrib-openai-ubos">node-red-contrib-openai-ubos</a></li>
+    <li><a href="https://flows.nodered.org/node/node-red-contrib-telegrambot">node-red-contrib-telegrambot</a></li>
+    <li><a href="https://flows.nodered.org/node/node-red-node-mongodb">node-red-node-mongodb</a></li>
+    <li><a href="https://flows.nodered.org/node/node-red-contrib-pdfparse">node-red-contrib-pdfparse</a></li>
+    <li><a href="https://flows.nodered.org/node/node-red-contrib-pinecone">node-red-contrib-pinecone</a></li>
+    <li><a href="https://flows.nodered.org/node/node-red-contrib-chromadb">node-red-contrib-chromadb</a></li>
   </ul>
 </details>
 
