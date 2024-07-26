@@ -82,7 +82,7 @@ Our project relies on several Node-RED nodes and additional libraries. Below is 
 - `moment`: `2.29.4` - Date and time manipulation
 - `bcrypt`: `5.1.1` - Password hashing
 
-  ### Database
+### Databases
 - `MongoDB`
 - `ChromaDB`
 - `Pinecone`
