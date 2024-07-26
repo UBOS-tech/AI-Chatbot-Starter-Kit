@@ -144,7 +144,7 @@ Please ensure these dependencies are installed and properly configured to utiliz
    - Saves conversation history
    - Sends the response back to the user
 
-### Key Functions
+## :key: Environment Variables
 
 - `Input Data Unification`: Standardizes input data format
 - `create vector`: Prepares the context for GPT based on vector database results
