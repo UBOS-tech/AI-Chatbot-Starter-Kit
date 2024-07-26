@@ -192,10 +192,8 @@ Distributed under the no License. See `LICENSE.txt` for more information.
 
 ## :handshake: Contact
 
-- `email:` support@ubos.tech;
+- support@ubos.tech;
 - [discord](https://discord.com/invite/dt59QaptH2)
-
-## :gem: Acknowledgements
 
 ## :gem: Acknowledgements
 
