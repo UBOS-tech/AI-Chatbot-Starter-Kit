@@ -1,12 +1,13 @@
 <div align="center">
 
-![logo](/Louis3797/awesome-readme-template/raw/main/assets/logo.png)
+![logo](https://github.com/user-attachments/assets/05e922cb-dfd8-42d7-bbd8-d9f31607974a)
 
-# Awesome Readme Template
 
-An awesome README template for your projects!
+# AI Chatbot Starter Kit
 
-[![contributors](https://img.shields.io/github/contributors/Louis3797/awesome-readme-template)](https://github.com/Louis3797/awesome-readme-template/graphs/contributors)
+An  README for template AI Chatbot Starter Kit
+
+[![contributors](https://github.com/user-attachments/assets/cd27ba60-1041-4277-9f79-622653a93445)(https://github.com/UBOS-tech/AI-Bot-Custom-GPT/graphs/contributors)
 [![last update](https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template)](https://github.com/Louis3797/awesome-readme-template/blob/main)
 [![forks](https://img.shields.io/github/forks/Louis3797/awesome-readme-template)](https://github.com/Louis3797/awesome-readme-template/network/members)
 [![stars](https://img.shields.io/github/stars/Louis3797/awesome-readme-template)](https://github.com/Louis3797/awesome-readme-template/stargazers)
