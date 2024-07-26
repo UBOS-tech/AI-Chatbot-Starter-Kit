@@ -159,21 +159,12 @@ Please ensure these dependencies are installed and properly configured to utiliz
 - `uiUrl`
 - `nodeUrl`
 
-### Configuration
+## :toolbox: Getting Started
 
-The flow requires several configuration parameters, including:
+### :bangbang: Prerequisites
 
-- OpenAI API key
-- Vector database credentials (Pinecone or Chroma)
-- Bot settings (name, prepared messages, AI settings)
-- Telegram bot token (for sending messages and typing indicators)
-
-### Notes for Developers
-
-- Ensure all required Node-RED nodes are installed, particularly for Chroma DB integration.
-- Properly configure environment variables for sensitive information like API keys.
-- The flow uses Node-RED's link nodes, implying that there might be additional connected flows not shown in this snippet.
-- The typing indicator functionality suggests this is part of a larger chatbot implementation, possibly for Telegram.
+- Sign up for a free [UBOS](https://platform.ubos.tech/) account.
+- Ensure you have a server with at least 2GB of RAM and 1 CPU.
 
 ### Future Improvements
 
