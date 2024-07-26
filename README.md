@@ -110,12 +110,10 @@ Please ensure these dependencies are installed and properly configured to utiliz
 ## :dart: Features
 
 - `Custom GPT Training`
- Multi-Platform Integration
- Advanced Knowledge Management
- Dynamic Behavior Configuration
- Multi-language Support
- Admin Panel CRM
-
+- `Multi-Platform Integration`
+- `Advanced Knowledge Management`
+- `Dynamic Behavior Configuration`
+- `Multi-language Support`
 
 ## Technology Stack
 
