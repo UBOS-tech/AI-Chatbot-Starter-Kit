@@ -44,6 +44,8 @@ An  README for template AI Chatbot Starter Kit
 
 ## :star2: About the Project
 
+Project build by UBOS team using Nodered, mondo db , ui based on appsmith. 
+
 ## :camera: Screenshots
 
 <div align="center">
@@ -52,7 +54,7 @@ An  README for template AI Chatbot Starter Kit
   <img src="https://ubos.tech/wp-content/uploads/2023/07/demo_pages_setupconfig.png" alt="start page" width="30%" />
 </div>
 
-## Dependencies
+## :space_invader Tech Stack
 
 Our project relies on several Node-RED nodes and additional libraries. Below is a list of the key dependencies:
 
