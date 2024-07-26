@@ -1,12 +1,11 @@
 <div align="center">
 
-![logo](https://github.com/user-attachments/assets/05e922cb-dfd8-42d7-bbd8-d9f31607974a)
-
+<img src="https://github.com/user-attachments/assets/05e922cb-dfd8-42d7-bbd8-d9f31607974a" alt="logo" width="200" height="auto" />
 
 # AI Chatbot Starter Kit
 
 An  README for template AI Chatbot Starter Kit
-
+<img src="https://github.com/user-attachments/assets/05e922cb-dfd8-42d7-bbd8-d9f31607974a" alt="logo" width="200" height="auto" />
 [![contributors](https://github.com/user-attachments/assets/cd27ba60-1041-4277-9f79-622653a93445)](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/graphs/contributors)
 [![last update](https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template)](https://github.com/Louis3797/awesome-readme-template/blob/main)
 [![forks](https://img.shields.io/github/forks/Louis3797/awesome-readme-template)](https://github.com/Louis3797/awesome-readme-template/network/members)
