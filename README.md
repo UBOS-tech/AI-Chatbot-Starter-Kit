@@ -31,8 +31,6 @@ An  README for template AI Chatbot Starter Kit
   - [:gear: Installation](#gear-installation)
 - [:compass: Roadmap](#compass-roadmap)
 - [:wave: Contributing](#wave-contributing)
-  - [:scroll: Code of Conduct](#scroll-code-of-conduct)
-- [:grey_question: FAQ](#grey_question-faq)
 - [:warning: License](#warning-license)
 - [:handshake: Contact](#handshake-contact)
 - [:gem: Acknowledgements](#gem-acknowledgements)
@@ -181,6 +179,16 @@ Please ensure these dependencies are installed and properly configured to utiliz
 - Implement rate limiting to prevent API overuse.
 - Integrate additional Large Language Models (LLMs).
 - Add CRM integration.
+
+## :wave: Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
+
+## :warning: License
+
+Distributed under the no License. See LICENSE.txt for more information.
 
 ## Resources
 
