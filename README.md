@@ -107,39 +107,13 @@ The AI Bot – Custom GPT project, built by the UBOS team, leverages Node-RED fo
 Please ensure these dependencies are installed and properly configured to utilize the full capabilities of the AI Bot.
 
 
-## Key Technologies
-
-### Node-RED
-A powerful tool for designing workflows and orchestrating integrations. Node-RED's visual interface allows seamless connection between various services and APIs, facilitating complex automation scenarios.
-
-### Chroma DB
-Utilized for scalable and efficient data storage, Chroma DB handles large datasets and supports rapid retrieval, ensuring quick access to information.
-
-### Pinecone
-Manages vector databases to handle complex data relationships and queries with high efficiency, essential for advanced search and recommendation functionalities.
-
-### MongoDB
-Provides a flexible, scalable database solution for storing and managing chatbot data and configurations, supporting diverse data models and structures.
-
-## Technical Features
-
-### Custom GPT Training
-Train and fine-tune your GPT models on your data to create specialized conversational agents. Supports integration with various data sources, including Google Drive, Notion, and AWS S3.
-
-### Multi-Platform Integration
-Easily deploy chatbots across messaging platforms like Telegram, WhatsApp, Instagram, and Messenger. Use our chat widget for website integration.
-
-### Advanced Knowledge Management
-Build and manage multiple knowledge bases with support for various input methods—file uploads, text entry, web scraping, and FAQs.
-
-### Dynamic Behavior Configuration
-Customize bot behavior per knowledge base with tailored responses, personalities, and handling of unusual chat scenarios.
-
-### Multi-language Support
-Implement chatbots in 7 different languages to cater to a global audience.
-
-### Admin Panel CRM
-Access a comprehensive admin panel to monitor and analyze chatbot interactions, gaining insights into user behavior and engagement.
+## :dart: Features
+ Custom GPT Training
+ Multi-Platform Integration
+ Advanced Knowledge Management
+ Dynamic Behavior Configuration
+ Multi-language Support
+ Admin Panel CRM
 
 
 ## Technology Stack
