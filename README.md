@@ -43,8 +43,7 @@ An  README for template AI Chatbot Starter Kit
 
 
 ## :star2: About the Project
-Project build by UBOS team using Nodered, mondo db , ui based on appsmith. 
-
+The AI Bot – Custom GPT project, built by the UBOS team, leverages Node-RED for workflow orchestration, MongoDB for scalable data storage, and an intuitive UI based on Appsmith. This project empowers users to create, customize, and deploy advanced chatbots with ease.
 
 ## :camera: Screenshots
 
