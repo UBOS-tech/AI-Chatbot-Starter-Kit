@@ -13,7 +13,7 @@ An  README for template AI Chatbot Starter Kit
 [![open issues](https://github.com/user-attachments/assets/9afe0b10-4bc1-4af3-84b3-0528c6123ff6)](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/issues)
 [![license](https://github.com/user-attachments/assets/68582236-5197-4dfe-8827-af9c983ea9b2)](https://github.com/Louis3797/awesome-readme-template/blob/master/LICENSE)
 
-#### [View Demo](https://github.com/Louis3797/awesome-readme-template/) · [Documentation](https://github.com/Louis3797/awesome-readme-template) · [Report Bug](https://github.com/Louis3797/awesome-readme-template/issues/) · [Request Feature](https://github.com/Louis3797/awesome-readme-template/issues/)
+#### [View Demo](https://platform.ubos.tech/?aiBotV3=true) · [Report Bug](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/issues) · [Request Feature](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/issues)
 
 </div>
 
