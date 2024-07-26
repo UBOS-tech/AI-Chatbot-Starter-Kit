@@ -95,6 +95,7 @@ The AI Bot – Custom GPT project, built by the UBOS team, leverages Node-RED fo
   </ul>
 </details>
 
+![Technology Stack](https://github.com/user-attachments/assets/25bce59b-df01-4ff4-9178-317f155d47fc)
 
 <details open>
   <summary>Databases</summary>
@@ -104,7 +105,10 @@ The AI Bot – Custom GPT project, built by the UBOS team, leverages Node-RED fo
     <li><a href="https://www.pinecone.io/">Pinecone</a></li>
   </ul>
 </details>
+
 Please ensure these dependencies are installed and properly configured to utilize the full capabilities of the AI Bot.
+
+![Technology Stack](https://ubos.tech/wp-content/uploads/2024/07/ubos_example-1.png)
 
 
 ## :dart: Features
@@ -115,23 +119,7 @@ Please ensure these dependencies are installed and properly configured to utiliz
 - `Dynamic Behavior Configuration`
 - `Multi-language Support`
 
-## Technology Stack
 
-![Technology Stack](https://github.com/user-attachments/assets/25bce59b-df01-4ff4-9178-317f155d47fc)
-
-### Node-RED
-UBOS AI Chatbot utilizes Node-RED for orchestrating workflows and integrations. This powerful tool allows you to easily connect different services and APIs with a visual flow-based interface.
-
-### Chroma DB
-Leverage Chroma DB for efficient and scalable data storage and retrieval, enabling the chatbot to access and manage large datasets quickly.
-
-### Pinecone
-Use Pinecone for vector database management, allowing the chatbot to handle complex data relationships and queries with high performance.
-
-### MongoDB
-Implement MongoDB for robust, flexible, and scalable database solutions, providing a strong backbone for storing chatbot data and configurations.
-
-![Technology Stack](https://ubos.tech/wp-content/uploads/2024/07/ubos_example-1.png)
 
 ## Node-RED Flow Details
 
