@@ -87,7 +87,7 @@ Project build by UBOS team using Nodered, mondo db , ui based on appsmith.
 <details open>
   <summary>Libraries</summary>
   <ul>
-    <li><a href="https://github.com/jsdom/jsdom">jsdom</a>/li>
+    <li><a href="https://github.com/jsdom/jsdom">jsdom</a></li>
     <li><a href="https://www.npmjs.com/package/@martip/node-red-xlsx">node-red-xlsx</a></li>
     <li><a href="https://www.trychroma.com/">chromadb</a></li>
     <li><a href="https://github.com/openai/openai-node">openai</a></li>
