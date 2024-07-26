@@ -45,7 +45,7 @@ An  README for template AI Chatbot Starter Kit
 ## :star2: About the Project
 The AI Bot – Custom GPT project, built by the UBOS team, leverages Node-RED for workflow orchestration, MongoDB for scalable data storage, and an intuitive UI based on Appsmith. This project empowers users to create, customize, and deploy advanced chatbots with ease.
 
-## :camera: Screenshots
+### :camera: Screenshots
 
 <div align="center">
   <img src="https://ubos.tech/wp-content/uploads/2023/07/demo_pages_analytics.png" alt="demo_pages_analytics" width="30%" />
@@ -53,7 +53,7 @@ The AI Bot – Custom GPT project, built by the UBOS team, leverages Node-RED fo
   <img src="https://ubos.tech/wp-content/uploads/2023/07/demo_pages_setupconfig.png" alt="start page" width="30%" />
 </div>
 
-## :space_invader: Tech Stack
+### :space_invader: Tech Stack
 
 <details open>
   <summary>Client</summary>
@@ -111,7 +111,7 @@ Please ensure these dependencies are installed and properly configured to utiliz
 ![Technology Stack](https://ubos.tech/wp-content/uploads/2024/07/ubos_example-1.png)
 
 
-## :dart: Features
+### :dart: Features
 
 - `Custom GPT Training`
 - `Multi-Platform Integration`
@@ -119,7 +119,7 @@ Please ensure these dependencies are installed and properly configured to utiliz
 - `Dynamic Behavior Configuration`
 - `Multi-language Support`
 
-## :robot: ADA-VectorDB-ChatGPT
+### :robot: ADA-VectorDB-ChatGPT
 
 ![image](https://github.com/user-attachments/assets/29199ec9-a548-43c1-9fff-8dc51b942c65)
 
@@ -144,9 +144,9 @@ Please ensure these dependencies are installed and properly configured to utiliz
    - Saves conversation history
    - Sends the response back to the user
 
-## :key: Environment Variables
+### :key: Environment Variables
 
-### Node-RED Environment Variables
+**Node-RED Environment Variables**
 - `nodered`
 - `uiUrl`
 - `VECTORDB-CHROMA-HOST-NAME`
@@ -155,7 +155,7 @@ Please ensure these dependencies are installed and properly configured to utiliz
 - `AIBOTDB-MONGO-USER-NAME`
 - `AIBOTDB-MONGO-PASSWORD`
 
-### UI Environment Variables
+**UI Environment Variables**
 - `uiUrl`
 - `nodeUrl`
 
