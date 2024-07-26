@@ -7,7 +7,7 @@
 An  README for template AI Chatbot Starter Kit
 
 [![contributors](https://github.com/user-attachments/assets/45df29b9-b0ee-484e-84b4-dcb9d7dfe212)](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/graphs/contributors)
-[![last update](https://github.com/user-attachments/assets/b020c964-56a3-4e6b-9dad-b10ff3da0783)](https://github.com/Louis3797/awesome-readme-template/blob/main)
+[![last update](https://github.com/user-attachments/assets/09182d4a-5411-43f9-a60f-87c3688d35b1)](https://github.com/UBOS-Asset-Store/Generative-AI-Bot-NR/commits/master/)
 [![forks](https://img.shields.io/github/forks/Louis3797/awesome-readme-template)](https://github.com/Louis3797/awesome-readme-template/network/members)
 [![stars](https://img.shields.io/github/stars/Louis3797/awesome-readme-template)](https://github.com/Louis3797/awesome-readme-template/stargazers)
 [![open issues](https://img.shields.io/github/issues/Louis3797/awesome-readme-template)](https://github.com/Louis3797/awesome-readme-template/issues/)
