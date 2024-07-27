@@ -93,7 +93,7 @@ Please ensure these dependencies are installed and properly configured to utiliz
 
 ### :eyes: Usage
 
-ADA-VectorDB-ChatGPT
+### ADA-VectorDB-ChatGPT
 
 **Key Components**
 
