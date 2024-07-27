@@ -6,12 +6,12 @@
 
 An  README for template AI Chatbot Starter Kit
 
-[![contributors](https://github.com/user-attachments/assets/45df29b9-b0ee-484e-84b4-dcb9d7dfe212)](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/graphs/contributors)
-[![last update](https://github.com/user-attachments/assets/09182d4a-5411-43f9-a60f-87c3688d35b1)](https://github.com/UBOS-Asset-Store/Generative-AI-Bot-NR/commits/master/)
-[![forks](https://github.com/user-attachments/assets/faac0d93-fa7d-4325-ae00-f66950380f9a)](https://github.com/UBOS-Asset-Store/Generative-AI-Bot-NR/network/members)
-[![stars](https://github.com/user-attachments/assets/c0a3ffa4-841a-42c8-9b44-7f9651a3ab19)](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/stargazers)
-[![open issues](https://github.com/user-attachments/assets/9afe0b10-4bc1-4af3-84b3-0528c6123ff6)](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/issues)
-[![license](https://github.com/user-attachments/assets/68582236-5197-4dfe-8827-af9c983ea9b2)](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/blob/main/LICENSE.txt)
+[![contributors](https://img.shields.io/badge/contributors-1-blue)](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/graphs/contributors)
+[![last commit](https://img.shields.io/badge/last%20commit-unknown-lightgrey)](https://github.com/UBOS-Asset-Store/Generative-AI-Bot-NR/commits/master/)
+[![forks](https://img.shields.io/github/forks/UBOS-Asset-Store/Generative-AI-Bot-NR?style=social)](https://github.com/UBOS-Asset-Store/Generative-AI-Bot-NR/network/members)
+[![stars](https://img.shields.io/github/stars/UBOS-tech/AI-Bot-Custom-GPT?style=social)](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/stargazers)
+[![open issues](https://img.shields.io/github/issues/UBOS-tech/AI-Bot-Custom-GPT?color=green)](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/issues)
+[![license](https://img.shields.io/badge/license-CC0--1.0-green)](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/blob/main/LICENSE.txt)
 
 #### [View Demo](https://platform.ubos.tech/?aiBotV3=true) · [Report Bug](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/issues) · [Request Feature](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/issues)
 
