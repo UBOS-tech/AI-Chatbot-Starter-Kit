@@ -23,6 +23,7 @@ An  README for template AI Chatbot Starter Kit
 - [:star2: About the Project](#star2-about-the-project)
   - [:camera: Screenshots](#camera-screenshots)
   - [:space_invader: Built With](#space_invader-built-with)
+  - [:package: Dependencies](#package-dependencies)
   - [:dart: Features](#dart-features)
   - [:robot: ADA-VectorDB-ChatGPT](#robot-ada-vectordb-chatgpt)
   - [:key: Environment Variables](#key-environment-variables)
@@ -63,32 +64,6 @@ The AI Bot – Custom GPT project, built by the UBOS team, leverages Node-RED fo
   </ul>
 </details>
 
-<details open>
-  <summary>Node-RED Nodes</summary>
-  <ul>
-    <li><a href="https://flows.nodered.org/node/node-red-contrib-fs">node-red-contrib-fs</a></li>
-    <li><a href="https://flows.nodered.org/node/node-red-contrib-loop-processing">node-red-contrib-loop-processing</a></li>
-    <li><a href="https://flows.nodered.org/node/node-red-contrib-openai-ubos">node-red-contrib-openai-ubos</a></li>
-    <li><a href="https://flows.nodered.org/node/node-red-contrib-telegrambot">node-red-contrib-telegrambot</a></li>
-    <li><a href="https://flows.nodered.org/node/node-red-node-mongodb">node-red-node-mongodb</a></li>
-    <li><a href="https://flows.nodered.org/node/node-red-contrib-pdfparse">node-red-contrib-pdfparse</a></li>
-    <li><a href="https://flows.nodered.org/node/node-red-contrib-pinecone">node-red-contrib-pinecone</a></li>
-    <li><a href="https://flows.nodered.org/node/node-red-contrib-chromadb">node-red-contrib-chromadb</a></li>
-  </ul>
-</details>
-
-<details open>
-  <summary>Libraries</summary>
-  <ul>
-    <li><a href="https://github.com/jsdom/jsdom">jsdom</a></li>
-    <li><a href="https://www.npmjs.com/package/@martip/node-red-xlsx">node-red-xlsx</a></li>
-    <li><a href="https://www.trychroma.com/">chromadb</a></li>
-    <li><a href="https://github.com/openai/openai-node">openai</a></li>
-    <li><a href="https://momentjs.com/">moment</a></li>
-    <li><a href="https://github.com/kelektiv/node.bcrypt.js">bcrypt</a></li>
-  </ul>
-</details>
-
 ![Technology Stack](https://github.com/user-attachments/assets/25bce59b-df01-4ff4-9178-317f155d47fc)
 
 <details open>
@@ -103,6 +78,30 @@ The AI Bot – Custom GPT project, built by the UBOS team, leverages Node-RED fo
 Please ensure these dependencies are installed and properly configured to utilize the full capabilities of the AI Bot.
 
 ![Technology Stack](https://ubos.tech/wp-content/uploads/2024/07/ubos_example-1.png)
+
+## :package: Dependencies
+
+Our project relies on several Node-RED nodes and additional libraries. Below is a list of the key dependencies:
+
+### Node-RED Nodes
+- `node-red-contrib-fs`: `1.4.1` - File system operations
+- `node-red-contrib-loop-processing`: `0.5.1` - Loop processing
+- `node-red-contrib-openai-ubos`: `1.0.4` - OpenAI integration
+- `node-red-contrib-telegrambot`: `15.1.9` - Telegram bot integration
+- `node-red-node-mongodb`: `0.2.5` - MongoDB integration
+- `node-red-contrib-pdfparse`: `1.0.6` - PDF parsing
+- `node-red-contrib-pinecone`: `1.0.7` - Pinecone integration
+- `node-red-contrib-chromadb`: `1.0.0` - Chroma DB integration
+
+### Libraries
+- `jsdom`: `22.1.0` - JavaScript DOM manipulation
+- `@martip/node-red-xlsx`: `1.0.2` - XLSX file handling
+- `chromadb`: `1.5.11` - Chroma DB client
+- `openai`: `4.14.2` - OpenAI API client
+- `moment`: `2.29.4` - Date and time manipulation
+- `bcrypt`: `5.1.1` - Password hashing
+
+Please ensure these dependencies are installed and properly configured to utilize the full capabilities of the AI Bot.
 
 
 ### :dart: Features
