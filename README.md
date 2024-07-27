@@ -197,6 +197,7 @@ Multiple debug nodes are included throughout the flow for monitoring and trouble
 
 Our AI Bot utilizes a Retrieval-Augmented Generation (RAG) architecture to provide accurate and context-aware responses. 
 
+![image](https://github.com/user-attachments/assets/f83c4ee5-0e94-4330-9795-fe9c6e8f6c41)
 
 ## :compass: Roadmap
 
