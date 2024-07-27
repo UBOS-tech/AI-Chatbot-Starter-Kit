@@ -17,7 +17,6 @@ An  README for template AI Chatbot Starter Kit
 
 </div>
 
-
 ## 📔 Table of Contents
 
 - [:star2: About the Project](#star2-about-the-project)
@@ -106,11 +105,14 @@ Please ensure these dependencies are installed and properly configured to utiliz
 
 ### :dart: Features
 
-- `Custom GPT Training`
-- `Multi-Platform Integration`
-- `Advanced Knowledge Management`
-- `Dynamic Behavior Configuration`
-- `Multi-language Support`
+- `Multiple LLM Models: GPT-4o, GPT-4o Mini, Claude 3.5, Llama 3.1`
+- `Multi-Language Support`
+- `Unlimited Knowledge Bases`
+- `AI Chatbot Personality Configuration`
+- `Unlimited Chatbots`
+- `Use Your Own OpenAI API Key`
+- `Seamless Integration`
+
 
 ### :robot: ADA-VectorDB-ChatGPT
 
