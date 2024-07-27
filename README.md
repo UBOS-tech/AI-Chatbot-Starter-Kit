@@ -90,8 +90,26 @@ Please ensure these dependencies are installed and properly configured to utiliz
 - `Use Your Own OpenAI API Key`
 - `Seamless Integration`
 
+### :key: Environment Variables
 
-### :eyes: Usage
+**Node-RED Environment Variables**
+- `nodered`
+- `uiUrl`
+- `VECTORDB-CHROMA-HOST-NAME`
+- `AIBOTDB-MONGO-HOST-NAME`
+- `AIBOTDB-MONGO-DB-NAME`
+- `AIBOTDB-MONGO-USER-NAME`
+- `AIBOTDB-MONGO-PASSWORD`
+- `OPENAI-KEY`
+- `PINECONE-INDEX`
+- `PINECONE-API-KEY`
+- `PINECONE-URL`
+
+**UI Environment Variables**
+- `uiUrl`
+- `nodeUrl`
+
+## :eyes: Usage
 
 ### ADA-VectorDB-ChatGPT
 
@@ -162,24 +180,6 @@ Our AI Bot utilizes a Retrieval-Augmented Generation (RAG) architecture to provi
 
 ![image](https://github.com/user-attachments/assets/29199ec9-a548-43c1-9fff-8dc51b942c65)
 
-### :key: Environment Variables
-
-**Node-RED Environment Variables**
-- `nodered`
-- `uiUrl`
-- `VECTORDB-CHROMA-HOST-NAME`
-- `AIBOTDB-MONGO-HOST-NAME`
-- `AIBOTDB-MONGO-DB-NAME`
-- `AIBOTDB-MONGO-USER-NAME`
-- `AIBOTDB-MONGO-PASSWORD`
-- `OPENAI-KEY`
-- `PINECONE-INDEX`
-- `PINECONE-API-KEY`
-- `PINECONE-URL`
-
-**UI Environment Variables**
-- `uiUrl`
-- `nodeUrl`
 
 ## :toolbox: Getting Started
 
