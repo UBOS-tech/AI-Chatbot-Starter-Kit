@@ -10,7 +10,7 @@ An  README for template AI Chatbot Starter Kit
 [![last commit](https://img.shields.io/github/last-commit/UBOS-Asset-Store/Generative-AI-Bot-NR?color=blue)](https://github.com/UBOS-Asset-Store/Generative-AI-Bot-NR/commits/master)
 [![stars](https://img.shields.io/github/stars/UBOS-tech/AI-Bot-Custom-GPT?style=social)](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/stargazers)
 [![open issues](https://img.shields.io/github/issues/UBOS-tech/AI-Bot-Custom-GPT?color=blue)](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/issues)
-[![license](https://img.shields.io/badge/license-CC0--1.0-blue)](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/blob/main/LICENSE.txt)
+[![license](https://img.shields.io/badge/license-MIT--1.0-blue)](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/blob/main/LICENSE.txt)
 
 #### [View Demo](https://platform.ubos.tech/?aiBotV3=true) · [Report Bug](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/issues) · [Request Feature](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/issues)
 
