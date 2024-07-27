@@ -219,7 +219,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 ## :warning: License
 
-Distributed under the no License. See `LICENSE.txt` for more information.
+This source code is licensed under the MIT license.  See [LICENSE.txt](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/blob/main/LICENSE.txt) for more information
 
 ## :handshake: Contact
 
