@@ -6,13 +6,13 @@
 
 An  README for template AI Chatbot Starter Kit
 
-[![contributors](https://img.shields.io/badge/contributors-3-blue)](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/graphs/contributors)
+[![contributors](https://img.shields.io/badge/contributors-3-blue)](https://github.com/UBOS-tech/AI-Chatbot-Starter-Kit/graphs/contributors)
 [![last commit](https://img.shields.io/github/last-commit/UBOS-Asset-Store/Generative-AI-Bot-NR?color=blue)](https://github.com/UBOS-Asset-Store/Generative-AI-Bot-NR/commits/master)
-[![stars](https://img.shields.io/github/stars/UBOS-tech/AI-Bot-Custom-GPT?style=social)](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/stargazers)
-[![open issues](https://img.shields.io/github/issues/UBOS-tech/AI-Bot-Custom-GPT?color=blue)](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/issues)
-[![license](https://img.shields.io/badge/license-MIT-blue)](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/blob/main/LICENSE.txt)
+[![stars](https://img.shields.io/github/stars/UBOS-tech/AI-Bot-Custom-GPT?style=social)](https://github.com/UBOS-tech/AI-Chatbot-Starter-Kit/stargazers)
+[![open issues](https://img.shields.io/github/issues/UBOS-tech/AI-Bot-Custom-GPT?color=blue)](https://github.com/UBOS-tech/AI-Chatbot-Starter-Kit/issues)
+[![license](https://img.shields.io/badge/license-MIT-blue)](https://github.com/UBOS-tech/AI-Chatbot-Starter-Kit/blob/main/LICENSE.txt)
 
-#### [View Demo](https://platform.ubos.tech/?aiBotV3=true) · [Report Bug](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/issues) · [Request Feature](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/issues)
+#### [View Demo](https://platform.ubos.tech/?aiBotV3=true) · [Report Bug](https://github.com/UBOS-tech/AI-Chatbot-Starter-Kit/issues) · [Request Feature](https://github.com/UBOS-tech/AI-Chatbot-Starter-Kit/issues)
 
 [![Deploy on UBOS](https://ubos.tech/wp-content/uploads/2024/07/deploy_ubos.svg)](https://platform.ubos.tech/?templateId=65397499fe34080011cedbb5)
 
