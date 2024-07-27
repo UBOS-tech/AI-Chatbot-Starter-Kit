@@ -24,10 +24,10 @@ An  README for template AI Chatbot Starter Kit
   - [:package: Dependencies](#package-dependencies)
   - [:dart: Features](#dart-features)
   - [:key: Environment Variables](#key-environment-variables)
-- [:eyes: Usage](#eyes-usage)
 - [:toolbox: Getting Started](#toolbox-getting-started)
   - [:bangbang: Prerequisites](#bangbang-prerequisites)
   - [:gear: Installation](#gear-installation)
+- [:eyes: Usage](#eyes-usage)
 - [:compass: Roadmap](#compass-roadmap)
 - [:wave: Contributing](#wave-contributing)
 - [:warning: License](#warning-license)
@@ -109,6 +109,25 @@ Please ensure these dependencies are installed and properly configured to utiliz
 - `uiUrl`
 - `nodeUrl`
 
+## :toolbox: Getting Started
+
+### :bangbang: Prerequisites
+
+- Sign up for a free [UBOS](https://platform.ubos.tech/) account.
+- Ensure you have a server with at least 2GB of RAM and 1 CPU.
+
+### :gear: Installation
+
+**White Label**
+1. Open the Template Manager on the UBOS platform and search for "AI Chatbot Starter Kit" or use [this direct link](https://platform.ubos.tech/?templateId=6683ed1f52da610011914678).
+2. Select your desired server plan.
+3. Click on "Install."
+4. Wait 5-7 minutes for the installation to complete and all settings to be applied.
+
+**SAAS**
+1. Access the project using [this link](https://platform.ubos.tech/?aiBotV3=true).
+
+
 ## :eyes: Usage
 
 ### ADA-VectorDB-ChatGPT
@@ -180,24 +199,6 @@ Our AI Bot utilizes a Retrieval-Augmented Generation (RAG) architecture to provi
 
 ![image](https://github.com/user-attachments/assets/29199ec9-a548-43c1-9fff-8dc51b942c65)
 
-
-## :toolbox: Getting Started
-
-### :bangbang: Prerequisites
-
-- Sign up for a free [UBOS](https://platform.ubos.tech/) account.
-- Ensure you have a server with at least 2GB of RAM and 1 CPU.
-
-### :gear: Installation
-
-**White Label**
-1. Open the Template Manager on the UBOS platform and search for "AI Chatbot Starter Kit" or use [this direct link](https://platform.ubos.tech/?templateId=6683ed1f52da610011914678).
-2. Select your desired server plan.
-3. Click on "Install."
-4. Wait 5-7 minutes for the installation to complete and all settings to be applied.
-
-**SAAS**
-1. Access the project using [this link](https://platform.ubos.tech/?aiBotV3=true).
 
 ## :compass: Roadmap
 
