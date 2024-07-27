@@ -39,7 +39,6 @@ An  README for template AI Chatbot Starter Kit
 
 ## :star2: About the Project
 The AI Bot – Custom GPT project, built by the UBOS team, leverages Node-RED for workflow orchestration, MongoDB for scalable data storage, and an intuitive UI based on Appsmith. This project empowers users to create, customize, and deploy advanced chatbots with ease.
-[![Deploy on UBOS](https://ubos.tech/wp-content/uploads/2024/07/deploy_ubos.svg)](https://platform.ubos.tech/?templateId=65397499fe34080011cedbb5)
 
 <div align="center">
   <img src="https://ubos.tech/wp-content/uploads/2023/07/demo_pages_analytics.png" alt="demo_pages_analytics" width="30%" />
