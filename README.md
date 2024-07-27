@@ -78,6 +78,10 @@ Our project relies on several Node-RED nodes and additional libraries. Below is 
 
 Please ensure these dependencies are installed and properly configured to utilize the full capabilities of the AI Bot.
 
+### **RAG Architecture**
+
+Our AI Bot utilizes a Retrieval-Augmented Generation (RAG) architecture to provide accurate and context-aware responses. 
+
 ![Technology Stack](https://github.com/user-attachments/assets/25bce59b-df01-4ff4-9178-317f155d47fc)
 
 ### :dart: Features
