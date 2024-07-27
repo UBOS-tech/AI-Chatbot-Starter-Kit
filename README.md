@@ -20,7 +20,6 @@ An  README for template AI Chatbot Starter Kit
 ## 📔 Table of Contents
 
 - [:star2: About the Project](#star2-about-the-project)
-  - [:camera: Screenshots](#camera-screenshots)
   - [:space_invader: Built With](#space_invader-built-with)
   - [:package: Dependencies](#package-dependencies)
   - [:dart: Features](#dart-features)
@@ -38,8 +37,6 @@ An  README for template AI Chatbot Starter Kit
 
 ## :star2: About the Project
 The AI Bot – Custom GPT project, built by the UBOS team, leverages Node-RED for workflow orchestration, MongoDB for scalable data storage, and an intuitive UI based on Appsmith. This project empowers users to create, customize, and deploy advanced chatbots with ease.
-
-### :camera: Screenshots
 
 <div align="center">
   <img src="https://ubos.tech/wp-content/uploads/2023/07/demo_pages_analytics.png" alt="demo_pages_analytics" width="30%" />
@@ -149,6 +146,10 @@ Please ensure these dependencies are installed and properly configured to utiliz
 - `AIBOTDB-MONGO-DB-NAME`
 - `AIBOTDB-MONGO-USER-NAME`
 - `AIBOTDB-MONGO-PASSWORD`
+- `OPENAI-KEY`
+- `PINECONE-INDEX`
+- `PINECONE-API-KEY`
+- `PINECONE-URL`
 
 **UI Environment Variables**
 - `uiUrl`
