@@ -224,8 +224,10 @@ Distributed under the no License. See `LICENSE.txt` for more information.
 
 ## :handshake: Contact
 
-- support@ubos.tech;
-- [discord](https://discord.com/invite/dt59QaptH2)
+UBOS Team - [@ubos_tech](https://twitter.com/ubos_tech) - [support@ubos.tech](mailto:support@ubos.tech)
+
+Project Link: [AI-Bot-Custom-GPT](https://github.com/UBOS-tech/AI-Bot-Custom-GPT)
+
 
 ## :gem: Acknowledgements
 
