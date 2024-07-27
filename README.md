@@ -229,7 +229,7 @@ UBOS Team - [@ubos_tech](https://twitter.com/ubos_tech) - [support@ubos.tech](ma
 
 Project Link: [AI-Bot-Custom-GPT](https://github.com/UBOS-tech/AI-Bot-Custom-GPT)
 
-Discord: [Link](https://discord.gg/xj6xnmG7KZ)
+Discord: [Discord Community](https://discord.gg/xj6xnmG7KZ)
 
 ## :gem: Acknowledgements
 
