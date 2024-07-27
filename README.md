@@ -95,6 +95,15 @@ Please ensure these dependencies are installed and properly configured to utiliz
 
 ![image](https://github.com/user-attachments/assets/29199ec9-a548-43c1-9fff-8dc51b942c65)
 
+**Key Components**
+
+1. **Input Data Unification**: Consolidates various configuration parameters and user input into a standardized format.
+2. **Embedding Generation**: Utilizes OpenAI's text-embedding-ada-002 model to create embeddings for user queries.
+3. **Vector Database Integration**: Supports both Pinecone and Chroma for semantic search functionality.
+4. **GPT Model Integration**: Uses OpenAI's chat completion API to generate responses based on retrieved context and user queries.
+5. **History Management**: Saves conversation history for potential future use or analysis.
+
+**Flow Structure**
 
 1. **Input Processing**: 
    - Unifies input data (BOT_NAME, DATABASE settings, AI_SETTINGS, etc.)
@@ -115,6 +124,38 @@ Please ensure these dependencies are installed and properly configured to utiliz
    - Processes the GPT response
    - Saves conversation history
    - Sends the response back to the user
+
+**Key Functions**
+
+- `Input Data Unification`: Standardizes input data format
+- `create vector`: Prepares the context for GPT based on vector database results
+- `send to user from chat`: Processes GPT response and prepares it for the user
+- `save history`: Stores conversation details for future reference
+
+**Integrations**
+
+- OpenAI API: For embedding generation and GPT-based response generation
+- Pinecone: Vector database for semantic search
+- Chroma: Alternative vector database option
+- Telegram Bot API: For sending typing indicators and messages (implied from the code)
+
+**Configuration**
+
+The flow requires several configuration parameters, including:
+
+- OpenAI API key
+- Vector database credentials (Pinecone or Chroma)
+- Bot settings (name, prepared messages, AI settings)
+- Telegram bot token (for sending messages and typing indicators)
+
+**Error Handling**
+
+The flow includes basic error handling, particularly for API failures and unexpected responses. It uses prepared error messages when issues occur.
+
+**Debugging**
+
+Multiple debug nodes are included throughout the flow for monitoring and troubleshooting purposes.
+
 
 ### :key: Environment Variables
 
