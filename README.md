@@ -174,12 +174,15 @@ Please ensure these dependencies are installed and properly configured to utiliz
 
 ## :compass: Roadmap
 
-- Implement more robust error handling and logging.
-- Add support for additional vector databases.
-- Enhance the context creation process for more accurate responses.
-- Implement rate limiting to prevent API overuse.
-- Integrate additional Large Language Models (LLMs).
-- Add CRM integration.
+- [x] Implement more robust error handling and logging.
+- [x] Multi-Language Support.
+- [x] Add Models: GPT-4o, GPT-4o Mini.
+- [ ] Add support for additional vector databases.
+- [ ] Enhance the context creation process for more accurate responses.
+- [ ] Implement rate limiting to prevent API overuse.
+- [x] Integrate additional Large Language Models (LLMs).
+- [ ] Add CRM integration.
+
 
 ## :wave: Contributing
 
