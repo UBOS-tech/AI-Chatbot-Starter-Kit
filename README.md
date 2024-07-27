@@ -197,7 +197,6 @@ Multiple debug nodes are included throughout the flow for monitoring and trouble
 
 Our AI Bot utilizes a Retrieval-Augmented Generation (RAG) architecture to provide accurate and context-aware responses. 
 
-![rag](https://ubos.tech/wp-content/uploads/2024/07/integrations_aichatbot-scaled.webp)
 
 ## :compass: Roadmap
 
