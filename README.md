@@ -78,9 +78,6 @@ Our project relies on several Node-RED nodes and additional libraries. Below is 
 
 Please ensure these dependencies are installed and properly configured to utilize the full capabilities of the AI Bot.
 
-### **RAG Architecture**
-
-Our AI Bot utilizes a Retrieval-Augmented Generation (RAG) architecture to provide accurate and context-aware responses. 
 
 ![Technology Stack](https://github.com/user-attachments/assets/25bce59b-df01-4ff4-9178-317f155d47fc)
 
@@ -96,8 +93,6 @@ Our AI Bot utilizes a Retrieval-Augmented Generation (RAG) architecture to provi
 
 
 ### :robot: ADA-VectorDB-ChatGPT
-
-![image](https://github.com/user-attachments/assets/29199ec9-a548-43c1-9fff-8dc51b942c65)
 
 **Key Components**
 
@@ -160,6 +155,11 @@ The flow includes basic error handling, particularly for API failures and unexpe
 
 Multiple debug nodes are included throughout the flow for monitoring and troubleshooting purposes.
 
+### **RAG Architecture**
+
+Our AI Bot utilizes a Retrieval-Augmented Generation (RAG) architecture to provide accurate and context-aware responses. 
+
+![image](https://github.com/user-attachments/assets/29199ec9-a548-43c1-9fff-8dc51b942c65)
 
 ### :key: Environment Variables
 
