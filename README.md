@@ -23,7 +23,7 @@ An  README for template AI Chatbot Starter Kit
   - [:space_invader: Built With](#space_invader-built-with)
   - [:package: Dependencies](#package-dependencies)
   - [:dart: Features](#dart-features)
-  - [👀 Usage](#👀-usage)
+  - [:eyes: Usage](#eyes-usage)
   - [:key: Environment Variables](#key-environment-variables)
 - [:toolbox: Getting Started](#toolbox-getting-started)
   - [:bangbang: Prerequisites](#bangbang-prerequisites)
@@ -91,7 +91,7 @@ Please ensure these dependencies are installed and properly configured to utiliz
 - `Seamless Integration`
 
 
-### 👀 Usage
+### :eyes: Usage
 
 ADA-VectorDB-ChatGPT
 
