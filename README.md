@@ -46,30 +46,11 @@ The AI Bot – Custom GPT project, built by the UBOS team, leverages Node-RED fo
 
 ### :space_invader: Built With
 
-<details open>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://www.appsmith.com/">AppSmith</a> - UI Based on AppSmith</li>
-  </ul>
-</details>
-
-<details open>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://nodered.org/">Node-RED</a></li>
-  </ul>
-</details>
-
-<details open>
-  <summary>Databases</summary>
-  <ul>
-    <li><a href="https://www.mongodb.com/">MongoDB</a></li>
-    <li><a href="https://www.trychroma.com/">ChromaDB</a></li>
-    <li><a href="https://www.pinecone.io/">Pinecone</a></li>
-  </ul>
-</details>
-
-Please ensure these dependencies are installed and properly configured to utilize the full capabilities of the AI Bot.
+- [AppSmith](https://www.appsmith.com/) 
+- [Node-RED](https://nodered.org/)
+- [MongoDB](https://www.mongodb.com/)
+- [ChromaDB](https://www.trychroma.com/)
+- [Pinecone](https://www.pinecone.io/)
 
 ![Technology Stack](https://ubos.tech/wp-content/uploads/2024/07/ubos_example-1.png)
 
