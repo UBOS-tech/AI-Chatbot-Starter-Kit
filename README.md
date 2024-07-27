@@ -22,7 +22,7 @@ An  README for template AI Chatbot Starter Kit
 
 - [:star2: About the Project](#star2-about-the-project)
   - [:camera: Screenshots](#camera-screenshots)
-  - [:space_invader: Built With](#space_invader-build-with)
+  - [:space_invader: Built With](#space_invader-built-with)
   - [:dart: Features](#dart-features)
   - [:robot: ADA-VectorDB-ChatGPT](#robot-ada-vectordb-chatgpt)
   - [:key: Environment Variables](#key-environment-variables)
