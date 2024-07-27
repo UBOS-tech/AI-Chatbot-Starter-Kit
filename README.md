@@ -23,7 +23,7 @@ An  README for template AI Chatbot Starter Kit
   - [:space_invader: Built With](#space_invader-built-with)
   - [:package: Dependencies](#package-dependencies)
   - [:dart: Features](#dart-features)
-  - [👀 Usage](#robot-ada-vectordb-chatgpt)
+  - [👀 Usage](#👀-usage)
   - [:key: Environment Variables](#key-environment-variables)
 - [:toolbox: Getting Started](#toolbox-getting-started)
   - [:bangbang: Prerequisites](#bangbang-prerequisites)
@@ -77,7 +77,6 @@ Our project relies on several Node-RED nodes and additional libraries. Below is 
 - `bcrypt`: `5.1.1` - Password hashing
 
 Please ensure these dependencies are installed and properly configured to utilize the full capabilities of the AI Bot.
-
 
 ![Technology Stack](https://github.com/user-attachments/assets/25bce59b-df01-4ff4-9178-317f155d47fc)
 
