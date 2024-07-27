@@ -11,7 +11,7 @@ An  README for template AI Chatbot Starter Kit
 [![forks](https://github.com/user-attachments/assets/faac0d93-fa7d-4325-ae00-f66950380f9a)](https://github.com/UBOS-Asset-Store/Generative-AI-Bot-NR/network/members)
 [![stars](https://github.com/user-attachments/assets/c0a3ffa4-841a-42c8-9b44-7f9651a3ab19)](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/stargazers)
 [![open issues](https://github.com/user-attachments/assets/9afe0b10-4bc1-4af3-84b3-0528c6123ff6)](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/issues)
-[![license](https://github.com/user-attachments/assets/68582236-5197-4dfe-8827-af9c983ea9b2)](https://github.com/Louis3797/awesome-readme-template/blob/master/LICENSE)
+[![license](https://github.com/user-attachments/assets/68582236-5197-4dfe-8827-af9c983ea9b2)](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/blob/main/LICENSE.txt)
 
 #### [View Demo](https://platform.ubos.tech/?aiBotV3=true) · [Report Bug](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/issues) · [Request Feature](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/issues)
 
@@ -22,7 +22,7 @@ An  README for template AI Chatbot Starter Kit
 
 - [:star2: About the Project](#star2-about-the-project)
   - [:camera: Screenshots](#camera-screenshots)
-  - [:space_invader: Tech Stack](#space_invader-tech-stack)
+  - [:space_invader: Built With](#space_invader-build-with)
   - [:dart: Features](#dart-features)
   - [:robot: ADA-VectorDB-ChatGPT](#robot-ada-vectordb-chatgpt)
   - [:key: Environment Variables](#key-environment-variables)
@@ -47,7 +47,7 @@ The AI Bot – Custom GPT project, built by the UBOS team, leverages Node-RED fo
   <img src="https://ubos.tech/wp-content/uploads/2023/07/demo_pages_setupconfig.png" alt="start page" width="30%" />
 </div>
 
-### :space_invader: Tech Stack
+### :space_invader: Built With
 
 <details open>
   <summary>Client</summary>
