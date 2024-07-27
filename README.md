@@ -15,6 +15,8 @@ An  README for template AI Chatbot Starter Kit
 
 #### [View Demo](https://platform.ubos.tech/?aiBotV3=true) · [Report Bug](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/issues) · [Request Feature](https://github.com/UBOS-tech/AI-Bot-Custom-GPT/issues)
 
+[![Deploy on UBOS](https://ubos.tech/wp-content/uploads/2024/07/deploy_ubos.svg)](https://platform.ubos.tech/?templateId=65397499fe34080011cedbb5)
+
 </div>
 
 ## 📔 Table of Contents
@@ -43,6 +45,11 @@ The AI Bot – Custom GPT project, built by the UBOS team, leverages Node-RED fo
   <img src="https://ubos.tech/wp-content/uploads/2024/07/20240726-143713-jpeg.webp" alt="start page" width="30%" />
   <img src="https://ubos.tech/wp-content/uploads/2023/07/demo_pages_setupconfig.png" alt="start page" width="30%" />
 </div>
+
+
+
+[![Deploy on UBOS](https://ubos.tech/wp-content/uploads/2024/07/deploy_ubos.svg)](https://platform.ubos.tech/?templateId=65397499fe34080011cedbb5)
+
 
 ### :space_invader: Built With
 
