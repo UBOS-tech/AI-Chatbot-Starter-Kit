@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/05e922cb-dfd8-42d7-bbd8-d9f31607974a" alt="logo" width="200" height="auto" />
+<img src="https://ubos.tech/wp-content/uploads/2024/07/data_types_image.png" alt="logo" width="200" height="auto" />
 
 # AI Chatbot Starter Kit
 
